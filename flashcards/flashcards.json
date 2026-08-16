@@ -1,0 +1,3502 @@
+[
+ {
+  "id": 1,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What single sentence defines opticianry and settles most scope questions?",
+  "back": "Opticianry is a dispensing profession: an optician acts on a prescription and does not create one. The optician interprets a valid prescription from an optometrist or ophthalmologist and turns it into working eyewear."
+ },
+ {
+  "id": 2,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What must an optician never do when a patient reports blur or headaches?",
+  "back": "Never diagnose or name a cause such as cataract, and never treat disease. You may observe and describe what you see in neutral terms, then refer to an optometrist or physician and document it."
+ },
+ {
+  "id": 3,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What is needed before an optician may perform a sight test?",
+  "back": "A separate provincial authorization with extra education and its own assessment, usually carrying conditions on patient age, time since the last full eye examination, and absence of ocular disease. Entry level registration alone does not grant it."
+ },
+ {
+  "id": 4,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What does NACOR actually do, and what does it not do?",
+  "back": "NACOR is an alliance of the provincial regulators that develops and administers the national examinations. It does not licence you, hold your registration, or discipline you. Your provincial regulator does all three."
+ },
+ {
+  "id": 5,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Which Canadian jurisdiction sits outside the NACOR examination system?",
+  "back": "Quebec. Its opticians are regulated by the Ordre des opticiens d'ordonnances du Quebec, which runs its own examination and requirements, so a NACOR pass does not by itself grant entry there."
+ },
+ {
+  "id": 6,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What is the practical test for a conflict of interest in dispensing?",
+  "back": "Ask whether a reasonable person could believe your recommendation was driven by your own financial interest rather than the patient's need. If yes, the arrangement must be disclosed or declined."
+ },
+ {
+  "id": 7,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What must a patient understand before informed consent is valid?",
+  "back": "What you propose to do, why, the reasonable alternatives, the risks and limitations, and the cost. They must have the chance to ask questions and must agree voluntarily. Consent is a process, not a signature."
+ },
+ {
+  "id": 8,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Define capacity in the context of consent to a dispensing service.",
+  "back": "Capacity is the patient's ability to understand the information given and appreciate the consequences of the decision. It is decision specific, so a patient may have capacity for one choice and not another, and it can fluctuate."
+ },
+ {
+  "id": 9,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Who consents for a minor or for an adult who lacks capacity?",
+  "back": "A substitute decision maker, usually a parent or guardian for a minor subject to provincial mature minor rules, or the person identified under provincial law for an incapable adult. Use a competent interpreter, not an improvising family member."
+ },
+ {
+  "id": 10,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "When must consent be obtained a second time on an existing order?",
+  "back": "Whenever the plan changes. If the lab reports the chosen material will not hold a drill mount and you switch material or frame, that is a new decision needing fresh agreement. Silence is not consent."
+ },
+ {
+  "id": 11,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Which privacy laws cover a Canadian dispensary, and what principles apply?",
+  "back": "PIPEDA applies to commercial activity, with substantially similar provincial statutes in Ontario, Alberta, and British Columbia. Collect only what you need, use it only for that purpose, keep it secure, and give the patient access on request."
+ },
+ {
+  "id": 12,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "List the main components of a complete optical patient record.",
+  "back": "Identification and contact details, the prescription with prescriber and date, every measurement and the method used, frame and lens specifications, the work order and verification results, what was discussed and consented to, adjustment history, and the optician who performed each service."
+ },
+ {
+  "id": 13,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "How do you correct a record entry, and how long is a record kept?",
+  "back": "Strike the error with a single line so the original stays readable, write the correction, then date and initial it. Never erase. Retention is provincial, commonly ten years from the last service, or from the age of majority for minors."
+ },
+ {
+  "id": 14,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Who owns a spectacle prescription once it has been written?",
+  "back": "The patient, not the practice that wrote it. The patient is entitled to a copy of their own prescription on request, and refusing to release it is not defensible."
+ },
+ {
+  "id": 15,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "A patient asks you to just copy their current glasses. What is your position?",
+  "back": "Neutralizing their current lenses tells you what they wear and is legitimate for repair or a service record, but it is not a prescription. In most jurisdictions you need a valid, unexpired prescription before supplying new eyewear."
+ },
+ {
+  "id": 16,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Name the three elements of WHMIS 2015 that affect bench work.",
+  "back": "Standardized supplier labels carrying hazard pictograms, a signal word, and precautionary statements; a safety data sheet for every hazardous product kept accessible to workers; and worker education and training on the products actually present."
+ },
+ {
+  "id": 17,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "How many sections does a safety data sheet have, and why does that matter?",
+  "back": "Sixteen sections in a fixed order under WHMIS 2015. The fixed order means you can find the first aid and safe handling sections on any product quickly, which is the point of reading them before an incident, not during one."
+ },
+ {
+  "id": 18,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Which hazardous products are commonly found in an optical finishing lab?",
+  "back": "Acetone and isopropyl alcohol for cleaning and deblocking, UV curable and cyanoacrylate adhesives, tinting dyes and their neutralizers, alloy or wax blocking material, ultrasonic cleaning concentrates, and compressed air."
+ },
+ {
+  "id": 19,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What physical protection is required at the edger and drill?",
+  "back": "Impact rated eye protection rather than your own dress eyewear, machine guards and shields left in place, hearing protection near a busy edger, dust controlled at source by extraction or wet cutting, and local ventilation for coating and tinting fumes."
+ },
+ {
+  "id": 20,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "When do you use soap and water rather than an alcohol based hand rub?",
+  "back": "Whenever hands are visibly soiled, because alcohol rub is not a substitute there. Otherwise either works before and after every patient contact and after handling anything a patient has worn or touched. Cover any break in your own skin."
+ },
+ {
+  "id": 21,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Describe the correct handling system for try on frames.",
+  "back": "A worn frame goes into a designated soiled tray, never straight back on the display board. It returns only after washing or wiping with an appropriate cleaner and disinfectant, with attention to temple tips, nose pads, and bridge, then drying."
+ },
+ {
+  "id": 22,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "What is the limitation of ultrasonic cleaning for infection control?",
+  "back": "Ultrasonic cleaning is excellent at removing soil but is not on its own a disinfection step for surfaces that touch skin. Follow it with an approved disinfectant, and avoid solvents that craze plastic frames or strip a coating."
+ },
+ {
+  "id": 23,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "A patient arrives with a red, weeping, crusted eye. What do you do?",
+  "back": "Do not proceed with a fitting that requires contact. Clean and disinfect everything the patient touched, wash your hands, and refer them to an optometrist or physician without offering a diagnosis."
+ },
+ {
+  "id": 24,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Which patient presentations require urgent referral rather than dispensing?",
+  "back": "Sudden vision loss, a new curtain or shadow in the field, a shower of floaters or new flashes, eye pain with redness, nausea or coloured haloes, new sudden double vision, and any chemical splash after immediate copious irrigation."
+ },
+ {
+  "id": 25,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 1,
+  "front": "Your neutralization differs sharply from a recent prescription. What is your response?",
+  "back": "Treat a marked, unexplained change as a red flag. Report what you measured, do not attempt to explain the cause, recommend an eye examination, state how soon, and write the recommendation in the record."
+ },
+ {
+  "id": 26,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What do sphere, cylinder, and axis each specify on a prescription?",
+  "back": "Sphere is spherical power in dioptres, plus for hyperopia and minus for myopia. Cylinder is the extra power in one meridian, correcting astigmatism. Axis is the meridian carrying no cylinder power, written 001 to 180 and never signed."
+ },
+ {
+  "id": 27,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What is the add, and where on the prescription does it apply?",
+  "back": "The add is additional plus power for near work, always a plus value and normally equal in both eyes. It is applied to the sphere only, leaving cylinder and axis unchanged."
+ },
+ {
+  "id": 28,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What do OD, OS, and OU mean, and how are the eyes ordered?",
+  "back": "OD is the right eye, OS is the left, OU means both. The right eye is written first, on the top line, every time. A work order with the eyes reversed or unlabelled goes back to the prescriber, not resolved by assumption."
+ },
+ {
+  "id": 29,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Find the near prescription for OD -2.75 -1.25 x 015 with Add +2.00.",
+  "back": "Apply the add to the sphere only: -2.75 plus +2.00 gives -0.75. The near prescription is -0.75 -1.25 x 015, with cylinder and axis unchanged."
+ },
+ {
+  "id": 30,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State the three steps of transposition, in order.",
+  "back": "Add the cylinder algebraically to the sphere for the new sphere. Reverse the sign of the cylinder. Change the axis by 90 degrees, adding 90 if the axis is 90 or less, subtracting 90 if it is more than 90."
+ },
+ {
+  "id": 31,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Transpose +1.50 +0.75 x 090 into minus cylinder form.",
+  "back": "New sphere is +1.50 plus +0.75, which is +2.25. Cylinder becomes -0.75. The axis is 90 or less, so add 90 to get 180. The answer is +2.25 -0.75 x 180."
+ },
+ {
+  "id": 32,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Transpose -3.00 -1.25 x 175 into plus cylinder form.",
+  "back": "New sphere is -3.00 plus -1.25, which is -4.25. Cylinder becomes +1.25. The axis is above 90, so subtract 90 from 175 to get 085. The answer is -4.25 +1.25 x 085."
+ },
+ {
+  "id": 33,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Transpose -2.50 -2.00 x 020 into plus cylinder form.",
+  "back": "New sphere is -4.50. Cylinder becomes +2.00. The axis is 90 or less, so 020 plus 90 gives 110. The answer is -4.50 +2.00 x 110, which describes the same lens with identical power in each principal meridian."
+ },
+ {
+  "id": 34,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State the formula for spherical equivalent.",
+  "back": "Spherical equivalent equals the sphere plus half the cylinder. It is the single spherical power with the same average power as the sphero-cylindrical lens, so it carries no astigmatic correction at all."
+ },
+ {
+  "id": 35,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Give the spherical equivalent of -2.00 -1.00 x 180 and of +3.00 -2.50 x 090.",
+  "back": "Half of -1.00 is -0.50, so -2.00 -1.00 x 180 has a spherical equivalent of -2.50 D. Half of -2.50 is -1.25, so +3.00 -2.50 x 090 has a spherical equivalent of +1.75 D."
+ },
+ {
+  "id": 36,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "When may an optician use spherical equivalent, and when may they not?",
+  "back": "Use it for a temporary lens, for a sun lens or swim goggle where no cylinder is available, and to compare two prescriptions. It never substitutes for a prescribed cylinder in regular eyewear, and you never drop a cylinder on your own authority."
+ },
+ {
+  "id": 37,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State the relationship between lens power and focal length.",
+  "back": "Power in dioptres equals 1 divided by the focal length in metres, written F equals 1 divided by f. The metre is not optional, and feeding in centimetres or millimetres is the most common error."
+ },
+ {
+  "id": 38,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Give the power of a 0.25 m focal length lens, and the focal length of -2.50 D.",
+  "back": "1 divided by 0.25 is +4.00 D. For the second, 1 divided by -2.50 is -0.40 m, which is 400 mm on the incoming side."
+ },
+ {
+  "id": 39,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Find the focal length of a +6.25 D lens, and the reading distance of a +2.50 add.",
+  "back": "1 divided by 6.25 is 0.16 m, which is 160 millimetres. 1 divided by 2.50 is 0.40 m, so a +2.50 add places the near focus at 40 centimetres, a normal reading distance."
+ },
+ {
+  "id": 40,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "How is prism written on a prescription, and how is it verified?",
+  "back": "In prism dioptres with a base direction: base in, base out, base up, base down, or an oblique base in degrees. Prism is a separate entry from power and is verified as its own component."
+ },
+ {
+  "id": 41,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Find the approximate power of a lens with a +6.00 front and -8.50 back curve.",
+  "back": "Approximate power is front surface power plus back surface power, so +6.00 plus -8.50 gives -2.50 D. The approximation ignores centre thickness, which matters in higher plus powers."
+ },
+ {
+  "id": 42,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Why must a lens clock reading be corrected, and what is the correction?",
+  "back": "The lens clock, also called a Geneva lens measure, is calibrated for an index of 1.53. True surface power equals the dial reading multiplied by the actual index minus 1, then divided by 0.53."
+ },
+ {
+  "id": 43,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "A lens clock reads +6.00 on a 1.60 index lens. Find the true surface power.",
+  "back": "Multiply 6.00 by 0.60, which is 3.60, then divide by 0.53 to get +6.79 D. The true power exceeds the dial reading because a higher index bends light more for the same curve."
+ },
+ {
+  "id": 44,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "A lens clock reads +4.00 on polycarbonate at index 1.586. Find the true surface power.",
+  "back": "Multiply 4.00 by 0.586, which is 2.344, then divide by 0.53 to get +4.42 D. Any index above 1.53 makes the true surface power higher than the dial reading."
+ },
+ {
+  "id": 45,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What do refractive index and Abbe value each tell you about a lens material?",
+  "back": "Higher index gives the same power with flatter curves, so a thinner lens in a strong prescription. Abbe runs the other way and measures dispersion: high Abbe means little colour fringing. CR-39 sits near 58 and polycarbonate near 30."
+ },
+ {
+  "id": 46,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Define A, DBL, and B in the boxing system.",
+  "back": "A is the eye size, the horizontal width of the smallest rectangle containing the lens shape. DBL is the distance between lenses, measured between the two boxes at their closest point, which the trade calls the bridge. B is the vertical height of the box."
+ },
+ {
+  "id": 47,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Define effective diameter, the boxing centre, and the datum line.",
+  "back": "Effective diameter is twice the longest radius from the boxing centre to the edge of the shape. The boxing centre is the geometric centre of the box, where the midlines cross. The datum line is the horizontal midline, halfway up B."
+ },
+ {
+  "id": 48,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What does a frame stamped 52-18-140 tell you for a blank size calculation?",
+  "back": "A 52 millimetre eye size and an 18 millimetre bridge, both of which you need. The 140 is temple length, and temple length plays no part in blank size arithmetic at all."
+ },
+ {
+  "id": 49,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What is frame PD, and what is its other name?",
+  "back": "Frame PD, also called geometric centre distance, equals A plus DBL. It is where the optical centres sit if you decentre nothing, and patients are rarely built to match it."
+ },
+ {
+  "id": 50,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State the formula for decentration per lens.",
+  "back": "Decentration equals A plus DBL, divided by 2, minus the monocular PD for that eye. Work each eye separately, because monocular PDs are rarely equal and cannot be averaged."
+ },
+ {
+  "id": 51,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Frame 52-18-140, monocular PD 32 mm each eye. Find the decentration.",
+  "back": "A plus DBL is 70, and half of that is 35. Decentration is 35 minus 32, which is 3 millimetres in per lens."
+ },
+ {
+  "id": 52,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Frame A 50, DBL 20, monocular PD 33.5 OD and 31.5 OS. Find each decentration.",
+  "back": "A plus DBL is 70, and half is 35. The right eye is 35 minus 33.5, which is 1.5 millimetres in. The left eye is 35 minus 31.5, which is 3.5 millimetres in."
+ },
+ {
+  "id": 53,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Frame A 58, DBL 20, monocular PD 30 mm each eye. Find the decentration.",
+  "back": "A plus DBL is 78, and half is 39. Decentration is 39 minus 30, which is 9 millimetres in per lens. A wide frame on a narrow face is where blank size problems come from."
+ },
+ {
+  "id": 54,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "How is total decentration found, and when can you simply halve it?",
+  "back": "Total decentration equals frame PD minus binocular PD, so a frame PD of 70 with a binocular PD of 64 gives 6 millimetres. That is 3 millimetres per eye only when the monocular PDs are equal, which most faces are not."
+ },
+ {
+  "id": 55,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State the formula for minimum blank size and the usual lab allowance.",
+  "back": "Minimum blank size equals effective diameter plus twice the decentration. Labs add a small allowance, commonly 2 millimetres, for chucking and edging, then round up to the next available blank, usually in 5 millimetre steps."
+ },
+ {
+  "id": 56,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "ED 56, decentration 3 mm. Find the minimum blank size and the blank to order.",
+  "back": "Twice 3 is 6, so 56 plus 6 gives a minimum blank size of 62 millimetres. Adding the 2 millimetre allowance gives 64, so order a 65 millimetre blank."
+ },
+ {
+  "id": 57,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "ED 62, decentration 9 mm. Find the minimum blank size and say what it signals.",
+  "back": "Twice 9 is 18, so 62 plus 18 gives 80 millimetres, and 82 with the allowance. That sits beyond most stock ranges, which is your signal to reconsider the frame rather than the lens."
+ },
+ {
+  "id": 58,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "How do you handle blank size when the centre moves both horizontally and vertically?",
+  "back": "Combine the two amounts as the resultant of a right triangle. With 3 millimetres horizontal and 4 millimetres vertical the resultant is 5, so on a lens of ED 55 the minimum blank size is 55 plus 10, which is 65 millimetres."
+ },
+ {
+  "id": 59,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "State Prentice's rule and apply it to a -5.00 D lens decentred 3 mm.",
+  "back": "Induced prism equals the decentration in centimetres times the power in dioptres. Here 0.3 times 5.00 gives 1.5 prism dioptres. With the centre nasal to the pupil on a minus lens the base is out, since a minus lens carries its base at the periphery."
+ },
+ {
+  "id": 60,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Which edge profile does each frame type require at the edger?",
+  "back": "A full rim frame takes a bevel, a raised V that seats in the frame groove. A semi-rimless frame takes a groove cut for the nylon cord. A rimless mount takes a flat or polished flat edge with holes drilled for the hardware."
+ },
+ {
+  "id": 61,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "What is a safety bevel, and why is edge polishing done?",
+  "back": "A safety bevel is a small chamfer off the sharp corners of the finished edge. It protects the patient's fingers, protects the lens from chipping, and helps it seat. Polishing is cosmetic on a full rim job and close to mandatory where the edge shows."
+ },
+ {
+  "id": 62,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Compare CR-39, high index plastic, and glass for everyday dispensing.",
+  "back": "CR-39 has index 1.498 and Abbe near 58 and tints well, but is thick in strong powers and not impact rated. High index from 1.60 to 1.74 cuts thickness but has low Abbe and is not impact rated. Glass is heavy and obsolete for children."
+ },
+ {
+  "id": 63,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "Compare polycarbonate and Trivex, and say which suits a drilled rimless job.",
+  "back": "Polycarbonate has index 1.586 and Abbe about 30. Trivex is near 1.53, with Abbe in the low to middle 40s and the lowest specific gravity. Both resist impact and drill without chipping, so either suits rimless work. CR-39 and glass are ruled out."
+ },
+ {
+  "id": 64,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "How do lens treatments affect the power you read at the lensometer?",
+  "back": "No treatment changes prescribed power, only how easily you read it. Anti-reflective coating hides the target under bright light, a photochromic left in sunlight reads dark until it clears, and polarized lenses interact with instrument optics and need their axis checked."
+ },
+ {
+  "id": 65,
+  "domain": "basic_dispensing_and_lens_finishing_theory",
+  "chapter": 2,
+  "front": "How should you work the accept or return to lab task in Section 1?",
+  "back": "Answer strictly from the ANSI Z80.1 chart supplied on the day, not from memory. Check components in the same fixed order every job, then name the failure precisely with component and direction, since one specific reason earns the mark."
+ },
+ {
+  "id": 66,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does neutralization mean in optical practice?",
+  "back": "Determining the power of a finished lens by measuring it rather than reading it off a prescription, then recording the result so another optician can act on it without asking you anything."
+ },
+ {
+  "id": 67,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Name the three everyday reasons opticians neutralize lenses.",
+  "back": "Duplication, copying a pair when no prescription is on file. Verification, checking a laboratory job against the work order before it goes on a face. Service, finding out what a patient is actually wearing."
+ },
+ {
+  "id": 68,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How does neutralizing a lens differ from refracting a patient?",
+  "back": "Neutralizing gives the power of the lens only. It says nothing about the patient's refractive error. Refracting is a separate authorization held by optometrists and by specifically certified refracting opticians, and it is not part of this exam."
+ },
+ {
+  "id": 69,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is hand neutralization, and where does it stand in Section 2?",
+  "back": "Hand or loose lens neutralization holds trial lenses of known power against an unknown lens until transverse movement disappears. It is a genuine backup skill, but every Section 2 mark comes from lensometer readings and measuring tools."
+ },
+ {
+  "id": 70,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How does a lensometer produce a power reading?",
+  "back": "A light source illuminates an internal target on a carriage driven by the power drum. The light passes through the test lens into a telescope, and at sharp focus the drum shows the power. It is also called a focimeter."
+ },
+ {
+  "id": 71,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Which power does a lensometer drum reading give at sharp focus?",
+  "back": "Back vertex power in the meridian being measured, taken from the back surface of the lens to its back focal point. That is the power a prescription specifies."
+ },
+ {
+  "id": 72,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does the lensometer eyepiece do, and what scale does it carry?",
+  "back": "It focuses the internal reticle for your own eye. It rotates on a helical thread and carries its own dioptric scale, usually running about +5 to -5 with a zero mark."
+ },
+ {
+  "id": 73,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the reticle, and what is it used for?",
+  "back": "The fixed crosshair or graticule etched inside the eyepiece. It does not move with the power drum, and it is your reference for centring the lens and for reading the prism scale."
+ },
+ {
+  "id": 74,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the lensometer target, and what other name does it carry?",
+  "back": "The illuminated pattern you bring into focus, also called the mire. The common pattern is a crossed line target with one set of lines at 90 degrees to the other. Some instruments use dots or circles."
+ },
+ {
+  "id": 75,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does the power drum do on a manual lensometer?",
+  "back": "It is the large calibrated wheel that moves the internal target, normally scaled in 0.12 or 0.25 dioptre steps with an indicator line. Its reading gives the lens power at sharp focus."
+ },
+ {
+  "id": 76,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does the axis wheel do on a lensometer?",
+  "back": "It rotates the target assembly and carries a 0 to 180 degree scale. Once the focused lines are sharp, unbroken and evenly spaced, the wheel reads the cylinder axis directly."
+ },
+ {
+  "id": 77,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the prism compensator used for?",
+  "back": "It is a rotating prism device fitted to most manual instruments, used when prism in the lens displaces the target image beyond the reticle rings. Chapter 5 covers the technique in detail."
+ },
+ {
+  "id": 78,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the purpose of the lens table on a lensometer?",
+  "back": "It is the adjustable platform supporting the frame's lower eyewires so the lens sits square to the instrument axis. Raise or lower it until the eyewires rest evenly and the frame front sits level."
+ },
+ {
+  "id": 79,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What do the lens stop and the holding arm do?",
+  "back": "The lens stop, sometimes called the nose piece, is the small aperture the back surface of the lens presses against. The holding arm keeps the lens seated while you read and mark it."
+ },
+ {
+  "id": 80,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does the marking device stamp on a lens?",
+  "back": "Three inked dots from spring loaded pins. The centre dot sits where the optical axis of the instrument passed through the lens, and the outer two lie on a horizontal line through it, 180 degrees apart."
+ },
+ {
+  "id": 81,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "State the procedure for focusing the lensometer eyepiece.",
+  "back": "With no lens in place, turn the drum well into plus so the target is blurred. Turn the eyepiece fully counter-clockwise toward plus, then slowly back the other way until the crosshairs snap sharp, stopping at the first point of clarity."
+ },
+ {
+  "id": 82,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Why is the eyepiece focused from the plus side rather than the minus side?",
+  "back": "Coming from the minus side lets your eye accommodate and pull a blurred reticle into apparent focus, so you stop at a false setting. Approaching from plus and stopping at first clarity relaxes accommodation and repeats reliably."
+ },
+ {
+  "id": 83,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Why must the eyepiece be reset by every operator on every instrument?",
+  "back": "The setting depends on the operator's own eye, so it does not transfer. On exam day equipment is randomly assigned, so the instrument handed to you may still carry the previous candidate's setting."
+ },
+ {
+  "id": 84,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How does an unfocused eyepiece affect sphere readings compared with cylinder readings?",
+  "back": "It shifts every sphere in the same direction by roughly the same amount, a systematic error. Cylinder usually survives because it is a difference between two drum readings, so the offset cancels out."
+ },
+ {
+  "id": 85,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "At what points during Section 2 should you refocus the eyepiece?",
+  "back": "At the start of the section before touching any lens, and again any time you have been away from the bench. The check takes about fifteen seconds and protects every reading made after it."
+ },
+ {
+  "id": 86,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the NACOR rule on automated lensometers?",
+  "back": "Automated equipment is not permitted. Every Section 2 power reading is taken on a manual instrument. Candidates may bring their own equipment only when the moderator authorizes it in advance, and automated units are excluded."
+ },
+ {
+  "id": 87,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What should a candidate do who only ever uses automated lensometers at work?",
+  "back": "Arrange bench time on a manual instrument well before the sitting. The skill is physical, so the hand movements, focusing judgement and drum reading must be automatic, leaving thinking capacity for the record sheet and the clock."
+ },
+ {
+  "id": 88,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Why clean a lens before putting it in the lensometer?",
+  "back": "A film of skin oil or hairspray scatters light and makes sharp focus impossible to judge. Clean the lens with a proper lens cloth before seating it against the stop."
+ },
+ {
+  "id": 89,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Which lens surface goes against the lens stop, and why?",
+  "back": "The back surface. Lensometers are calibrated to read back vertex power, measured from the back surface of the lens to its back focal point, and back vertex power is what a prescription specifies."
+ },
+ {
+  "id": 90,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What do you get if you read a lens front surface down against the stop?",
+  "back": "Front vertex power, a different number on any lens of real power or thickness. On a low power lens the difference may hide inside tolerance. On a strong plus lens it will not."
+ },
+ {
+  "id": 91,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How should a pair be placed on the lens table before reading?",
+  "back": "Temples away from you and opened flat, back surface against the stop. Raise or lower the table until the lower eyewires rest evenly and the front sits square, then move the frame laterally to centre the target."
+ },
+ {
+  "id": 92,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Which lens is read first, and what does that habit prevent?",
+  "back": "The right lens, then the left, on every pair, every time. A fixed order removes an entire class of recording error, such as writing the left lens result under OD."
+ },
+ {
+  "id": 93,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How is the sphere reading found on a single vision lens?",
+  "back": "Turn the power drum from the plus side toward minus and stop at the first position where one set of lines is sharp, black and continuous, adjusting the axis wheel so those lines are unbroken and evenly spaced."
+ },
+ {
+  "id": 94,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How is cylinder power obtained once the sphere has been read?",
+  "back": "Keep turning the drum in the minus direction until the second set of lines focuses. Subtract the sphere reading from that second reading. Expressed as a minus number, the difference is the cylinder power."
+ },
+ {
+  "id": 95,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "When and how do you read the cylinder axis?",
+  "back": "Read it off the axis wheel once the first set of lines is sharp, unbroken and evenly spaced. Then cross check the wheel against the orientation of those lines before you write anything down."
+ },
+ {
+  "id": 96,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How do you recognize a spherical lens on the lensometer?",
+  "back": "Both sets of target lines come to sharp focus together at one drum position. Record the sphere and write DS or sphere. Do not invent a cylinder because one focus looked slightly ragged."
+ },
+ {
+  "id": 97,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Why should you not memorize which target set is the sphere line?",
+  "back": "Which set the manufacturer designates varies between instrument models. Confirm it during familiarization time using a lens of known power. The procedure depends on the order the lines focus, not on how they look."
+ },
+ {
+  "id": 98,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "State the rule that produces a minus cylinder reading.",
+  "back": "Focus the more plus, or less minus, meridian first and call it the sphere. Starting at the plus end of the drum and turning toward minus does this automatically, so the second reading is more minus."
+ },
+ {
+  "id": 99,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "First lines focus at -2.00 with the wheel at 180, second lines at -3.00. Record it.",
+  "back": "Sphere is -2.00. Cylinder is -3.00 minus -2.00, which is -1.00. Axis is 180. The finished entry reads -2.00 -1.00 x 180."
+ },
+ {
+  "id": 100,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What produces a plus cylinder reading, and how do you deal with it?",
+  "back": "Starting at the minus end of the drum and turning toward plus focuses the more minus meridian first. The reading is not wrong, only in the other form, so transpose it into minus cylinder."
+ },
+ {
+  "id": 101,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "State the three steps of transposition.",
+  "back": "Add sphere and cylinder algebraically for the new sphere, change the sign of the cylinder, and change the axis by 90 degrees, adding 90 if the original axis is 90 or less and subtracting 90 if it is more."
+ },
+ {
+  "id": 102,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Transpose -3.00 +1.00 x 090 into minus cylinder form.",
+  "back": "New sphere is -3.00 plus +1.00, which is -2.00. The cylinder becomes -1.00. Axis 090 is 90 or less, so add 90 to get 180. The result is -2.00 -1.00 x 180."
+ },
+ {
+  "id": 103,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Why is the cylinder axis written with three digits?",
+  "back": "Three digits stop a misread. Axis 5 is written 005 and axis 90 is written 090, so a 5 cannot be taken for 50 by whoever reads the sheet afterwards."
+ },
+ {
+  "id": 104,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What is the commonest single axis mistake, and how do you catch it?",
+  "back": "Misreading the axis by 90 degrees. Cross check the axis wheel against the orientation of the lines you focused before you write. The error is instantly visible if you look at the target."
+ },
+ {
+  "id": 105,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "The target will not focus cleanly. Name three lens or eyepiece causes.",
+  "back": "The lens is dirty or its coating is crazed, so clean it properly. The eyepiece is out of adjustment, so remove the lens and refocus. The lens is in the wrong way round, giving a sharp but wrong reading."
+ },
+ {
+  "id": 106,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How does a tilted lens or an out of range power show at the lensometer?",
+  "back": "A lens not seated square introduces cylinder and smears the target, so reset the lens table. Power beyond the drum range, roughly 20 dioptres either side of zero, needs the auxiliary high power lens and the maker's conversion."
+ },
+ {
+  "id": 107,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Which two lens features make a target refuse to focus properly?",
+  "back": "A progressive corridor or blend zone, where power is partway through its progression, so move up to the distance zone above the fitting cross. And heavy prism, which runs the target off the reticle, so use the prism compensator."
+ },
+ {
+  "id": 108,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How do you dot the optical centre of a single vision lens?",
+  "back": "Read the power, centre the target precisely on the reticle crosshair, then press the marking device. Three dots are stamped, and the centre one marks the optical centre, also called the major reference point."
+ },
+ {
+  "id": 109,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What do you measure between the two centre dots, and what does it tell you?",
+  "back": "The separation of the optical centres, taken with a millimetre ruler. Comparing that distance with the patient's distance PD shows whether horizontal prism has been induced by miscentring the lenses."
+ },
+ {
+  "id": 110,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How is optical centre height measured and checked?",
+  "back": "Measure each centre dot from the lowest point of the lens in the frame, straight up. Compare the two heights to detect vertical imbalance, and compare each with the pupil centre with the frame in its adjusted position."
+ },
+ {
+  "id": 111,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "What does the standard allow for a mounted single vision pair's reference points?",
+  "back": "Under the ANSI Z80.1 standard used by NACOR, they must sit within 2.5 mm of the specified distance PD and within 1 mm of each other in height, with unwanted prism at the reference point at or below 0.33 prism dioptres."
+ },
+ {
+  "id": 112,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "Name the errors that cost the most marks in Section 2.",
+  "back": "Not refocusing the eyepiece, which damages every sphere on the sheet. Misreading axis by 90 degrees. Reading the front surface instead of the back. Recording a result under the wrong eye. Forgetting base curve loses easy marks too."
+ },
+ {
+  "id": 113,
+  "domain": "lens_neutralization",
+  "chapter": 3,
+  "front": "How should a finished single vision power entry be written?",
+  "back": "Label the eye OD or OS and keep one system throughout. Write sphere with its sign, then cylinder with its sign, then axis as three digits after an x, two decimals throughout: OD -2.00 -1.00 x 180."
+ },
+ {
+  "id": 114,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "What is the first thing to do with a multifocal pair in Section 2?",
+  "back": "Identify the lens type before touching the lensometer. The type decides how the add is read and which physical measurements you owe on the record sheet."
+ },
+ {
+  "id": 115,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "What results does one multifocal pair require on the record sheet?",
+  "back": "Distance power for each eye, add for each eye, segment or fitting cross height, near or monocular PDs, and base curve. A perfect distance reading with a wrong add is still a lost pair."
+ },
+ {
+  "id": 116,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How do you tell by hand and eye that a lens is a lined multifocal?",
+  "back": "Hold it against a plain light background and tilt it. A visible segment line, a ledge you can feel with a fingernail, or a change in reflection tells you a segment is there."
+ },
+ {
+  "id": 117,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the flat top segment and give its other name.",
+  "back": "Also called a D segment, it has a straight edge across the top with the curve below it. The flat top is the workhorse of Canadian dispensing."
+ },
+ {
+  "id": 118,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How are flat top segments sized, and which size is most dispensed?",
+  "back": "They are named by the width across the straight top edge, giving FT-25, FT-28 and FT-35. FT-28 is by far the most dispensed. Measure across the straight top edge, not the widest part of the curve."
+ },
+ {
+  "id": 119,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How much may a finished segment size vary from the ordered size?",
+  "back": "The ANSI Z80.1 standard used by NACOR allows the finished segment size to vary from the ordered size by 0.5 mm in either direction."
+ },
+ {
+  "id": 120,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the round segment and give its usual sizes.",
+  "back": "A circle with no straight edge at all, most often 22 mm or 24 mm across. It is uncommon on new orders but still turns up on repairs and duplications."
+ },
+ {
+  "id": 121,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the executive bifocal and give its other names.",
+  "back": "Also called a Franklin or one piece bifocal, its segment runs the full width of the lens with the dividing line edge to edge and a pronounced ridge you can feel. Executives are thick and heavy."
+ },
+ {
+  "id": 122,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How are trifocals recognized and named?",
+  "back": "Two visible lines: the upper strip is the intermediate segment and the lower part is the near segment. Naming gives intermediate depth then near width, so a 7x28 has a 7 mm band above a 28 mm segment."
+ },
+ {
+  "id": 123,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How do you tell a blended bifocal from a progressive?",
+  "back": "A blended bifocal, also called invisible or seamless, shows a smudged circular boundary in reflected light and carries no permanent engravings. A progressive has clean optics and two permanent circular engravings 34 mm apart."
+ },
+ {
+  "id": 124,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Where does the segment sit on almost every lined multifocal made today?",
+  "back": "On the front surface of the lens. That single fact drives the whole add reading method, because the add must be measured from the surface that carries the addition."
+ },
+ {
+  "id": 125,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the back vertex method of reading an add.",
+  "back": "Seat the lens back surface against the stop, read the distance portion, then slide the lens up so the segment sits over the stop and read again. Subtract the distance sphere from the segment sphere."
+ },
+ {
+  "id": 126,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the front vertex method and give its other names.",
+  "back": "Turn the lens around so the front surface rests on the stop, which brings the temples toward you. Read through the distance portion, then through the segment, and subtract. Front vertex power is also called neutralizing power or front focal power."
+ },
+ {
+  "id": 127,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why is the front vertex method correct for a front surface segment?",
+  "back": "Power added to the front sits a lens thickness from the back vertex plane, so it is magnified differently in the distance portion and in the segment. Read from the front, the shared back surface contribution cancels in the subtraction."
+ },
+ {
+  "id": 128,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "State the rule that decides which vertex to read an add from.",
+  "back": "Measure the add from the surface that carries the addition. Front surface segment, read from the front. Back surface segment or back surface progressive, read from the back."
+ },
+ {
+  "id": 129,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Which reading is always taken as a back vertex measurement?",
+  "back": "The distance power itself, on every lens type, because that is how a prescription is written and how the standard specifies it. Only the add follows the surface carrying the addition."
+ },
+ {
+  "id": 130,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Front vertex readings on an FT-28 give -4.12 distance and -1.62 segment. Find the add.",
+  "back": "The add is the segment reading minus the distance reading: -1.62 minus -4.12 equals +2.50 D. Record it as Add +2.50."
+ },
+ {
+  "id": 131,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Front vertex readings give +1.75 distance and +3.50 segment. Find the add.",
+  "back": "The add is +3.50 minus +1.75, which is +1.75 D. Record it as Add +1.75. The subtraction runs the same way whether the distance power is plus or minus."
+ },
+ {
+  "id": 132,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why does the back vertex shortcut appear to work on thin low minus lenses?",
+  "back": "A -4.00 DS lens on a shallow front curve reads -4.00 distance and -1.50 segment from the back, a naive add of +2.50, and gives +2.50 from the front too. The two agree more finely than the drum shows. That is luck, not method."
+ },
+ {
+  "id": 133,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "A +8.00 DS lens carries a +3.00 add. What does back vertex subtraction give?",
+  "back": "Back vertex readings of +8.00 and about +11.30 give a naive add of +3.30 D. The true front vertex add is +3.00 D, so the shortcut over-reads by 0.30 D, far outside the 0.12 D allowed for adds to +4.00."
+ },
+ {
+  "id": 134,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Summarize the error pattern of the back vertex add shortcut.",
+  "back": "It over-reads the add, the error grows with plus power and lens thickness, and it is negligible only in thin low minus lenses. You cannot tell by eye which case you have, so flip the lens every time."
+ },
+ {
+  "id": 135,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How are the two adds of a trifocal calculated?",
+  "back": "Read distance, intermediate and near by the front vertex method. The near add is the near segment reading minus the distance reading. The intermediate add is the intermediate band reading minus the distance reading."
+ },
+ {
+  "id": 136,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Which trifocal intermediate percentages are made, and which is the stock ratio?",
+  "back": "The intermediate is a fixed fraction of the near add. Fifty percent is the common stock ratio. Ratios of 40 percent and 70 percent are also made, with 70 percent suiting long periods at intermediate distance."
+ },
+ {
+  "id": 137,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Give the intermediate add for a +3.00 near add at 50 percent and at 70 percent.",
+  "back": "At 50 percent the intermediate add is +1.50 D. At 70 percent it is +2.10 D. For comparison, a +2.50 near add with a 40 percent intermediate gives +1.00 D."
+ },
+ {
+  "id": 138,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How does the trifocal intermediate ratio work as a self check?",
+  "back": "Divide the measured intermediate by the measured near add. A near add of +3.50 with an intermediate of +1.75 gives 0.50, a matched 50 percent trifocal. An odd figure such as 0.62 means one reading is wrong."
+ },
+ {
+  "id": 139,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why is mistaking a progressive for single vision so costly in Section 2?",
+  "back": "A PAL has no segment line, no ledge and no blur ring, so on its own it looks like single vision. Miss it and you record a distance power with no add, no fitting cross height and no monocular PDs."
+ },
+ {
+  "id": 140,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "What must you confirm before recording a lens as single vision?",
+  "back": "Positively confirm there are no permanent engravings, rather than simply failing to notice any. Engravings are cut in at manufacture and cannot be removed, so if you cannot see them you have not looked properly."
+ },
+ {
+  "id": 141,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Describe the two permanent circles on a progressive lens.",
+  "back": "Two small permanent circles sit horizontally, one nasal and one temporal, 34 mm apart on every conventional progressive design regardless of brand. They anchor the whole marking layout."
+ },
+ {
+  "id": 142,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "What does the 34 mm engraving separation confirm?",
+  "back": "It confirms the lens is a progressive, and it confirms you have found two genuine permanent marks rather than one mark and a scratch. Measure the separation before you trust what you have found."
+ },
+ {
+  "id": 143,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Where is the prism reference point on a progressive, and what is it for?",
+  "back": "Exactly midway between the two permanent circles, on the line joining them, 17 mm from each. It is where the standard specifies any prescribed prism and where unwanted prism is checked."
+ },
+ {
+  "id": 144,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How is add power engraved on a progressive lens?",
+  "back": "In a small etched character group below one circle, written without the plus sign and usually without the decimal point, so a +2.25 add may appear as 225, 2.25 or 22 depending on the maker."
+ },
+ {
+  "id": 145,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Which mark sits under which circle, and why do identifier charts exist?",
+  "back": "The usual arrangement puts the brand or design mark under the nasal circle and the add under the temporal circle. That arrangement is not universal, and the inconsistency between makers is why identifier charts are published."
+ },
+ {
+  "id": 146,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "What is the fitting cross, and where is it found?",
+  "back": "The point that must sit in front of the pupil centre when the lens is mounted. It is not engraved permanently; the lab inks it on and it wipes off. On most designs it sits 2 to 4 mm above the prism reference point."
+ },
+ {
+  "id": 147,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Where is the distance reference point on a progressive lens?",
+  "back": "Marked by the distance reference circle, it sits above the fitting cross. Its exact position is design specific and comes from the marking chart for that design. Distance power is read there."
+ },
+ {
+  "id": 148,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Where does the near reference circle sit on a progressive lens?",
+  "back": "Well below the fitting cross, typically 14 to 18 mm down, and inset nasally by roughly 2 to 2.5 mm because the eyes converge for near work. The exact position comes from the design chart."
+ },
+ {
+  "id": 149,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Name two bench techniques for revealing faint permanent engravings.",
+  "back": "Hold the lens above a dark matte surface and rake a single bright light across the front at a low angle. Or fog the lens with a short breath and watch the marks hold condensation differently."
+ },
+ {
+  "id": 150,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How is a progressive layout re-inked once the engravings are found?",
+  "back": "Dot each circle with a fine lens marker, lay the lens on the marking chart for that design, line the dots up with the chart's 34 mm reference line, then transfer the fitting cross, prism reference point and both circles."
+ },
+ {
+  "id": 151,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How is distance power read on a progressive lens?",
+  "back": "With the back surface on the lens stop and the distance reference point centred over it. That gives a back vertex reading, which is what the prescription specifies."
+ },
+ {
+  "id": 152,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How is the add read on a progressive lens?",
+  "back": "At the near reference circle by the front vertex method: subtract the front vertex distance portion reading from the front vertex near circle reading. Designs carrying the progressive surface on the back are read from the back instead."
+ },
+ {
+  "id": 153,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Front vertex readings on a PAL are -1.75 at distance and +0.50 near. Find the add.",
+  "back": "The add is +0.50 minus -1.75, which is +2.25 D. Compare that with the engraved add, usually under the temporal circle although placement varies by maker, so check the identifier chart. If the two disagree, take both readings again."
+ },
+ {
+  "id": 154,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why is any power reading taken in the progressive corridor wrong?",
+  "back": "The power is partway through its progression, so you get a fraction of the add plus the design's unwanted cylinder, giving a cylinder not in the prescription and a meaningless axis. The target never focuses cleanly in both meridians."
+ },
+ {
+  "id": 155,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "From where is fitting cross height measured, and where does the cross go?",
+  "back": "From the lowest point of the lens aperture, the deepest part of the eyewire groove directly below the cross, straight up to the cross. The cross goes at the pupil centre, so a pupil 24 mm up means 24 mm."
+ },
+ {
+  "id": 156,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "From where is flat top segment height measured, and what is the starting position?",
+  "back": "From that same lowest point of the aperture straight up to the top edge of the segment, the straight line itself. The usual starting position for that edge is the lower lid margin, confirmed against task and posture."
+ },
+ {
+  "id": 157,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why is a flat top segment height lower than a fitting cross height on one face?",
+  "back": "The two use different anatomical references. The fitting cross goes at the pupil centre, while the flat top segment edge starts at the lower lid margin, which sits several millimetres below the pupil centre."
+ },
+ {
+  "id": 158,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How does segment drop differ from segment height?",
+  "back": "Drop is measured down from the distance optical centre. Height is measured up from the lowest point of the aperture. With the major reference point 20 mm up and the segment top 18 mm up, height is 18 mm and drop is 2 mm."
+ },
+ {
+  "id": 159,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "How much are segments inset, and how does near PD compare with distance PD?",
+  "back": "Segments are inset nasally about 1.5 to 2 mm per eye, which is 3 to 4 mm measured across both eyes. Binocular near PD runs 3 to 4 mm less than distance PD at a 40 cm working distance, so a 64 mm distance PD gives a near PD near 61 mm."
+ },
+ {
+  "id": 160,
+  "domain": "lens_neutralization",
+  "chapter": 4,
+  "front": "Why must progressives be ordered on monocular PDs instead of a split binocular PD?",
+  "back": "Most faces are not symmetric, so splitting a binocular figure misplaces the corridor. A 2 mm horizontal error puts the line of sight into the blend zone. The standard allows each PAL reference point only 1.0 mm from the specified monocular PD."
+ },
+ {
+  "id": 161,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the definition of one prism dioptre.",
+  "back": "One prism dioptre displaces a ray of light 1 centimetre at a distance of 1 metre. Every prism calculation in Section 2 is built on that single relationship."
+ },
+ {
+  "id": 162,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How much displacement does 3.00 prism dioptres give at 40 centimetres?",
+  "back": "3.00 multiplied by 0.4 metres = 1.2 centimetres, which is 12 millimetres. Multiply the prism amount by the distance in metres to get the displacement in centimetres."
+ },
+ {
+  "id": 163,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What displacement does 2.00 prism dioptres produce at 10 centimetres?",
+  "back": "2.00 multiplied by 0.1 metres = 0.2 centimetres, which is 2 millimetres. The same 2.00 prism dioptres gives 2 cm at 1 metre and 20 cm at 10 metres, since displacement is linear with distance."
+ },
+ {
+  "id": 164,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Identify the base and the apex of a prism.",
+  "back": "The thick edge is the base and the thin edge is the apex. Light bends toward the base, while the image the patient sees is displaced toward the apex."
+ },
+ {
+  "id": 165,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Define base in and base out for a spectacle lens.",
+  "back": "Base in points toward the patient's nose and base out points toward the patient's temple. Both are named relative to the patient's own nose, so one physical direction is in for one eye and out for the other."
+ },
+ {
+  "id": 166,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How do base up and base down differ between the two eyes?",
+  "back": "They do not differ. Base up and base down describe the same physical direction in both eyes, unlike base in and base out, which reverse from one eye to the other."
+ },
+ {
+  "id": 167,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Why does oblique prism use a full 360 degree scale?",
+  "back": "A base has a direction, while a cylinder axis only has an orientation. The base scale therefore runs the full 360 degrees rather than stopping at 180 as an axis scale does."
+ },
+ {
+  "id": 168,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Give the positions of 0, 90, 180 and 270 degrees facing the patient.",
+  "back": "Facing the patient, 0 degrees sits at your right hand, 90 degrees is straight up, 180 degrees is at your left hand, and 270 degrees is straight down. The circle is read counterclockwise."
+ },
+ {
+  "id": 169,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the 360 degree base values for the right lens.",
+  "back": "For the right lens, base in is 0 degrees and base out is 180 degrees. Base up is 90 degrees and base down is 270 degrees, the same as in the left lens."
+ },
+ {
+  "id": 170,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the 360 degree base values for the left lens.",
+  "back": "For the left lens, base in is 180 degrees and base out is 0 degrees, the reverse of the right lens. Base up stays 90 degrees and base down stays 270 degrees."
+ },
+ {
+  "id": 171,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Interpret the work order entry OS 4.00 pd base 45.",
+  "back": "The left lens carries 4.00 prism dioptres with the base at 45 degrees, which is up and out in that left eye, because 0 degrees is base out for the left lens and 90 degrees is base up."
+ },
+ {
+  "id": 172,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe the reticle marking used to read prism on a manual lensometer.",
+  "back": "Concentric rings surround the centre of the eyepiece reticle. On most manual instruments each ring step equals 1 prism dioptre and the reticle reaches about 5 prism dioptres, though some mark half dioptre steps."
+ },
+ {
+  "id": 173,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What is the first focusing step before reading prism on a lensometer?",
+  "back": "Focus the eyepiece on the reticle itself, with no lens in place, so the rings are crisp. Only then focus the target for power. Skipping this makes every ring count unreliable."
+ },
+ {
+  "id": 174,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "The target sits three rings out from the bullseye. How much prism?",
+  "back": "3.00 prism dioptres, since each ring step equals 1 prism dioptre on a standard manual reticle. A target sitting on the bullseye instead means there is no prism at the point being measured."
+ },
+ {
+  "id": 175,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Which way does the lensometer target move relative to the base?",
+  "back": "The target moves toward the base, the opposite of what the patient experiences, because the instrument images the target onto a reticle rather than into an eye. Report the direction the target moved."
+ },
+ {
+  "id": 176,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What does it mean if the target runs off the edge of the reticle?",
+  "back": "The prism exceeds what the reticle can display, usually more than about 5 prism dioptres. Switch to the auxiliary prism compensator or measure the offset centre and convert it with Prentice's rule."
+ },
+ {
+  "id": 177,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe how an auxiliary prism compensator is used.",
+  "back": "The compensator is a rotating prism that clips into the light path. Set its base direction, dial in known prism until the target returns to the bullseye, then read the amount off its own scale."
+ },
+ {
+  "id": 178,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How do you measure large prism when no compensator is available?",
+  "back": "Shift the lens until the target centres, mark that point, measure how far it lies from the point you were asked to read, then convert that distance with Prentice's rule."
+ },
+ {
+  "id": 179,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe the dotting procedure for locating the optical centre.",
+  "back": "Place the lens on the stop, move it until the target sits on the bullseye, then press the marking device. Three dots appear, and the middle dot is the optical centre, or the prism reference point when prism was ordered."
+ },
+ {
+  "id": 180,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What is measured between the two centre dots after dotting a pair?",
+  "back": "The distance between the optical centres as glazed. Compare it with the distance PD on the work order, split the difference between the two eyes, then apply Prentice's rule. Measure dot to dot, never dot to bevel."
+ },
+ {
+  "id": 181,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "The dots match the ordered PD but prism is present. What does that suggest?",
+  "back": "The prism was ground into the lens and is probably prescribed. If the dots do not match the ordered PD instead, the prism is almost certainly a decentration error."
+ },
+ {
+  "id": 182,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Define prescribed prism and say where it appears.",
+  "back": "Prism ordered deliberately to relieve a phoria or a tropia. It sits on the work order beside sphere, cylinder and axis, for example OD -2.50 -0.75 x 175, 1.50 pd base out."
+ },
+ {
+  "id": 183,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "List the usual sources of unwanted prism found at neutralization.",
+  "back": "A decentration error, a lens rotated in the frame, a warped or badly edged lens, or a frame sprung out of alignment. Unwanted prism is prism found when the order asked for none."
+ },
+ {
+  "id": 184,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How much prism is allowed at the reference point when none was ordered?",
+  "back": "On the order of a third of a prism dioptre, 0.33 prism dioptres, under the ANSI Z80.1 standard used by NACOR. When prism is prescribed, the reference point must sit within about 1.0 millimetre of the specified location."
+ },
+ {
+  "id": 185,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What is the first thing to check when you find prism in a lens?",
+  "back": "Check the work order. Prescribed prism present and correct passes, and calling correct prescribed prism an error costs the mark just as surely as missing unwanted prism does."
+ },
+ {
+  "id": 186,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "An order reads 3.00 pd base out, split. What goes on each lens?",
+  "back": "1.50 prism dioptres base out in each lens. Horizontal prism splits equally between the two eyes in the same base direction, so 3.00 divided by two eyes gives 1.50 each."
+ },
+ {
+  "id": 187,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "An order reads 4.00 pd base in, split. What goes on each lens?",
+  "back": "2.00 prism dioptres base in in each lens. The total of 4.00 divided between two eyes gives 2.00 each, both base in, because horizontal prism splits in the same direction."
+ },
+ {
+  "id": 188,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How does 2.00 prism dioptres base up before the right eye split?",
+  "back": "1.00 prism dioptre base up right and 1.00 prism dioptre base down left. Vertical prism is a relative displacement between the eyes, so the bases oppose each other when the total is split."
+ },
+ {
+  "id": 189,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "When should you not split prescribed prism yourself, and why split at all?",
+  "back": "Never split on your own initiative when the order already gives a per eye value. Splitting is done to reduce the thickness added to any one lens and to keep the pair looking alike."
+ },
+ {
+  "id": 190,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Total the prism in OD 2.00 base out with OS 1.00 base out.",
+  "back": "3.00 prism dioptres base out for the pair, because base out in one eye adds to base out in the other. Opposing vertical bases add the same way: 1.50 up right with 1.50 down left totals 3.00."
+ },
+ {
+  "id": 191,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the formulas for resolving oblique prism into components.",
+  "back": "Horizontal component = total prism multiplied by the cosine of the base angle. Vertical component = total prism multiplied by the sine of the base angle. Record the two components separately as base in, out, up or down."
+ },
+ {
+  "id": 192,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Resolve 4.00 prism dioptres base 45 in the left lens into components.",
+  "back": "4.00 multiplied by cos 45 = 2.83 horizontal, and 4.00 multiplied by sin 45 = 2.83 vertical. In the left lens base 45 means 2.83 prism dioptres base out and 2.83 prism dioptres base up."
+ },
+ {
+  "id": 193,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Resolve 5.00 prism dioptres at base 30 into horizontal and vertical.",
+  "back": "5.00 multiplied by cos 30 = 4.33 prism dioptres horizontal, and 5.00 multiplied by sin 30 = 2.50 prism dioptres vertical. The horizontal component dominates because the base lies close to the horizontal."
+ },
+ {
+  "id": 194,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the formula for the resultant of horizontal and vertical prism.",
+  "back": "Resultant = the square root of (horizontal squared plus vertical squared). The base angle is the arctangent of vertical divided by horizontal, then placed in the correct quadrant of the 360 degree scale."
+ },
+ {
+  "id": 195,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Combine 3.00 base in with 4.00 base up in the right lens.",
+  "back": "The resultant is the square root of (9 plus 16) = 5.00 prism dioptres. The angle is the arctangent of 4 divided by 3, which is 53 degrees, and base in is 0 for the right lens, so the answer is 5.00 base 53."
+ },
+ {
+  "id": 196,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State Prentice's rule in the centimetre form.",
+  "back": "Prism dioptres = decentration in centimetres multiplied by lens power in dioptres. Use the absolute value of the power for the amount, then work out the base direction separately from the lens form."
+ },
+ {
+  "id": 197,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State Prentice's rule in the millimetre form.",
+  "back": "Prism dioptres = (decentration in millimetres multiplied by lens power in dioptres) divided by 10. Bench measurements come in millimetres, so write this form on your scrap paper before the timer starts."
+ },
+ {
+  "id": 198,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Why does the millimetre form of Prentice's rule divide by 10?",
+  "back": "The classic formula wants centimetres and your ruler reads millimetres, and there are 10 millimetres in a centimetre. Forgetting that division by 10 is where most candidates lose the mark."
+ },
+ {
+  "id": 199,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What single fact fixes the base direction of induced prism?",
+  "back": "The base points toward the thicker part of the lens. Work out the amount from Prentice's rule first, then apply this fact to the lens form to name the base direction."
+ },
+ {
+  "id": 200,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Where does a plus lens place the base of its induced prism?",
+  "back": "Pointing back toward its own optical centre, because a plus lens is thick in the centre and thin at the edge, so it thickens as you move toward the centre."
+ },
+ {
+  "id": 201,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Where does a minus lens place the base of its induced prism?",
+  "back": "Pointing away from its own optical centre, in the same direction as the displacement of the line of sight, because a minus lens is thin in the centre and thick at the edge."
+ },
+ {
+  "id": 202,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A +4.00 DS lens sits with the line of sight 5 mm below centre. Prism?",
+  "back": "(5 multiplied by 4.00) divided by 10 = 2.00 prism dioptres. Centimetre check: 0.5 multiplied by 4.00 = 2.00. The lens is plus and the sight line is below centre, so the base points up."
+ },
+ {
+  "id": 203,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A -8.00 DS lens has its optical centre 2 mm above the pupil. Prism?",
+  "back": "(2 multiplied by 8.00) divided by 10 = 1.60 prism dioptres. Centimetre check: 0.2 multiplied by 8.00 = 1.60. Minus lens with the sight line below centre gives base down."
+ },
+ {
+  "id": 204,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A +6.00 DS lens is decentred 2 mm nasally. Prism in that lens?",
+  "back": "(2 multiplied by 6.00) divided by 10 = 1.20 prism dioptres. The lens is plus, so the base points back toward the centre, which is nasal, giving 1.20 prism dioptres base in."
+ },
+ {
+  "id": 205,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A 64 mm PD receives +6.00 lenses centred 68 mm apart. Total prism?",
+  "back": "The error is 68 minus 64 = 4 mm, or 2 mm per eye. Each lens gives (2 multiplied by 6.00) divided by 10 = 1.20 prism dioptres base out, so the pair carries 2.40 prism dioptres base out."
+ },
+ {
+  "id": 206,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Calculate the prism from a -7.00 D lens decentred 3 mm.",
+  "back": "(3 multiplied by 7.00) divided by 10 = 21 divided by 10 = 2.10 prism dioptres. Centimetre check: 0.3 multiplied by 7.00 = 2.10 prism dioptres, so the two forms agree."
+ },
+ {
+  "id": 207,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Calculate the prism from a -9.00 D lens decentred 5 mm.",
+  "back": "(5 multiplied by 9.00) divided by 10 = 45 divided by 10 = 4.50 prism dioptres. Centimetre check: 0.5 multiplied by 9.00 = 4.50 prism dioptres, so the two forms agree."
+ },
+ {
+  "id": 208,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Rearrange Prentice's rule to solve for the decentration.",
+  "back": "Decentration in centimetres = prism dioptres divided by lens power in dioptres. In millimetre form, decentration in millimetres = (prism dioptres multiplied by 10) divided by the lens power."
+ },
+ {
+  "id": 209,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How far is a -6.00 DS lens decentred to give 1.50 prism dioptres base in?",
+  "back": "(1.50 multiplied by 10) divided by 6.00 = 15 divided by 6.00 = 2.5 millimetres. Centimetre check: 1.50 divided by 6.00 = 0.25 cm. The centre moves 2.5 mm outward, since a minus lens decentres opposite to the base wanted."
+ },
+ {
+  "id": 210,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the decentration direction rule for plus and minus lenses.",
+  "back": "With a plus lens, decentre the optical centre toward the base you want. With a minus lens, decentre the optical centre opposite to the base you want."
+ },
+ {
+  "id": 211,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How much decentration gives 3.00 prism dioptres in a -4.00 D lens?",
+  "back": "(3.00 multiplied by 10) divided by 4.00 = 30 divided by 4.00 = 7.5 millimetres. Centimetre check: 3.00 divided by 4.00 = 0.75 cm, which is the same 7.5 millimetres."
+ },
+ {
+  "id": 212,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A 4 mm decentration produced 2.40 prism dioptres. Find the lens power.",
+  "back": "Power = (prism multiplied by 10) divided by decentration in millimetres = (2.40 multiplied by 10) divided by 4 = 24 divided by 4 = 6.00 dioptres."
+ },
+ {
+  "id": 213,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Define induced vertical imbalance at near in anisometropia.",
+  "back": "The difference in induced vertical prism between the two eyes when the line of sight drops below the distance optical centres. Unequal powers produce unequal prism at the same drop."
+ },
+ {
+  "id": 214,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "OD -5.00 and OS -2.00, sight line 8 mm below centre. Imbalance?",
+  "back": "Right lens: (8 multiplied by 5.00) divided by 10 = 4.00 base down. Left lens: (8 multiplied by 2.00) divided by 10 = 1.60 base down. Net imbalance = 4.00 minus 1.60 = 2.40 prism dioptres."
+ },
+ {
+  "id": 215,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Give the shortcut for calculating vertical imbalance at near.",
+  "back": "Multiply the difference in power by the drop in centimetres. For a 3.00 D difference at an 8 mm drop, 0.8 multiplied by 3.00 = 2.40 prism dioptres, matching the long calculation exactly."
+ },
+ {
+  "id": 216,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "OD -6.00 and OS -1.00, sight line 10 mm below centre. Imbalance?",
+  "back": "Right lens: (10 multiplied by 6.00) divided by 10 = 6.00 base down. Left lens: (10 multiplied by 1.00) divided by 10 = 1.00 base down. Net = 5.00 prism dioptres. Shortcut check: 5.00 D difference multiplied by 1.0 cm = 5.00."
+ },
+ {
+  "id": 217,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "OD +4.00 and OS +1.00, sight line 8 mm below centre. Imbalance?",
+  "back": "Right lens: (8 multiplied by 4.00) divided by 10 = 3.20 base up. Left lens: (8 multiplied by 1.00) divided by 10 = 0.80 base up. Net = 2.40 prism dioptres. Shortcut check: 3.00 D difference multiplied by 0.8 cm = 2.40."
+ },
+ {
+  "id": 218,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How much vertical imbalance at near do most patients tolerate?",
+  "back": "Anything above roughly 1.00 prism dioptre is more than most patients fuse comfortably at near. Vertical fusional reserves are small, often under 1.50 prism dioptres, and they do not train up quickly."
+ },
+ {
+  "id": 219,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "List three management options for excessive vertical imbalance at near.",
+  "back": "Slab off, a separate pair of single vision readers, or a different lens design. Which one suits depends on the power difference, the frame chosen, and how much near work the patient does."
+ },
+ {
+  "id": 220,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How does tolerance for horizontal prism compare with vertical prism?",
+  "back": "Horizontal prism is comparatively well tolerated, because fusional reserves for convergence are large and those for divergence are smaller but usable. Vertical reserves are small and do not build quickly."
+ },
+ {
+  "id": 221,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How does uncorrected induced prism usually present in a patient?",
+  "back": "As asthenopia: aching eyes, frontal headache after half an hour of reading, and glasses the patient calls fine but wearable for only an hour. Frank diplopia is rarely reported, because patients suppress or tilt the head."
+ },
+ {
+  "id": 222,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What does a head tilt in a new anisometropic wearer suggest?",
+  "back": "A strong hint of vertical imbalance. The patient tilts to move the line of sight closer to the optical centres rather than reporting double vision, so ask about comfort and recheck the heights."
+ },
+ {
+  "id": 223,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Why does the same centring error matter more in a strong lens?",
+  "back": "Prism grows in direct proportion to power. A 2 mm error gives 0.20 prism dioptres in a 1.00 D lens but 1.60 prism dioptres in an 8.00 D lens, which is why the two reference points may differ in height by only about 1 mm."
+ },
+ {
+  "id": 224,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe what conventional slab off does to a spectacle lens.",
+  "back": "It creates base up prism in the reading portion of the more minus lens, offsetting the base down prism that lens induces in downgaze. A dividing line runs across the lens at the segment top."
+ },
+ {
+  "id": 225,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe reverse slab off and how it differs from conventional slab off.",
+  "back": "Reverse slab off places base down prism in the reading portion of the more plus lens instead. The correction of the vertical imbalance is the same, and the choice follows the manufacturing method used."
+ },
+ {
+  "id": 226,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What is prism thinning on a progressive lens, and why does it matter at neutralization?",
+  "back": "Equal base down prism ground into both lenses to reduce thickness. It cancels binocularly because both eyes are displaced the same way, but you will read it at each prism reference point, so verify the two amounts match."
+ },
+ {
+  "id": 227,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Name the instrument used to read base curve and its alternative name.",
+  "back": "A lens clock, also called a Geneva lens measure. It measures the sagittal depth of a surface across a fixed span and converts that depth to surface power on an engraved dial."
+ },
+ {
+  "id": 228,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Describe the three pin design of a lens clock.",
+  "back": "Three pins sit in a row. The two outer pins are fixed and rest on the surface, while the centre pin is spring loaded and free to move. The surface sag pushes or releases the centre pin, and that displacement drives the needle."
+ },
+ {
+  "id": 229,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What units is the lens clock dial engraved in?",
+  "back": "Dioptres of surface power, not millimetres of sagittal depth. The instrument senses a depth but the dial has already converted it to power using an assumed refractive index."
+ },
+ {
+  "id": 230,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How should a lens clock be held and read on a surface?",
+  "back": "Hold it perpendicular to the surface with all three pins touching at once. Rock it slightly and read where the needle reaches its extreme, the point at which the clock is truly normal to the surface."
+ },
+ {
+  "id": 231,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Where on the lens should the clock pins be placed?",
+  "back": "At the centre of the lens, with all three pins well clear of the bevel. Pins riding on the bevel or on an edge chamfer give a false reading that no later correction can rescue."
+ },
+ {
+  "id": 232,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the sign convention for lens clock readings.",
+  "back": "A convex surface bulging toward you reads plus, and a concave surface curving away from you reads minus. On a conventional lens the front reads plus and the back reads minus."
+ },
+ {
+  "id": 233,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Which surface do you read first, and which one is the base curve?",
+  "back": "Read the front first and record it as the base curve, then turn the lens over and read the back. Strong plus lenses and some flat front designs read plus on both sides."
+ },
+ {
+  "id": 234,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What refractive index is a lens clock calibrated for?",
+  "back": "Crown glass at n = 1.53. The clock measures a shape correctly on any material, then converts that shape to power using 1.53, so the dial power is wrong on any other index."
+ },
+ {
+  "id": 235,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the formula that corrects a lens clock reading for refractive index.",
+  "back": "True Power = Reading multiplied by (n actual minus 1) divided by (1.53 minus 1). The denominator is always 0.53, so the whole correction reduces to a single multiplier for each material."
+ },
+ {
+  "id": 236,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Why is the index correction multiplier always greater than 1 above n = 1.53?",
+  "back": "Because (n minus 1) exceeds 0.53 whenever n exceeds 1.53, so the ratio exceeds 1. The true surface power is therefore larger than the dial says on polycarbonate and every high index material."
+ },
+ {
+  "id": 237,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Calculate the lens clock correction multiplier for polycarbonate, n = 1.586.",
+  "back": "(1.586 minus 1) = 0.586, and 0.586 divided by 0.53 = 1.1057. Every polycarbonate reading is multiplied by 1.1057, so the dial understates the true surface power by about 10.6 percent."
+ },
+ {
+  "id": 238,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A polycarbonate front reads +6.00 D on the clock. True surface power?",
+  "back": "6.00 multiplied by 1.1057 = 6.634, which rounds to +6.63 D. Reading it straight off the dial as +6.00 D would put the base curve outside the 0.75 dioptre tolerance."
+ },
+ {
+  "id": 239,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A polycarbonate back reads -8.00 D on the clock. True surface power?",
+  "back": "8.00 multiplied by 1.1057 = 8.845, which rounds to -8.85 D. The multiplier is the same for both surfaces, and only the sign carried by the reading changes."
+ },
+ {
+  "id": 240,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Calculate the correction multiplier for CR-39, n = 1.498, and correct a +6.00 reading.",
+  "back": "(1.498 minus 1) = 0.498, and 0.498 divided by 0.53 = 0.9396. A +6.00 D reading becomes 6.00 multiplied by 0.9396 = 5.638, which rounds to +5.64 D."
+ },
+ {
+  "id": 241,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A CR-39 back surface reads -4.00 D on the clock. True surface power?",
+  "back": "4.00 multiplied by 0.9396 = 3.758, which rounds to -3.76 D. CR-39 sits below 1.53, so its multiplier is less than 1 and the true power is smaller than the dial shows."
+ },
+ {
+  "id": 242,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "What correction does a Trivex lens at n = 1.53 need?",
+  "back": "None. (1.53 minus 1) divided by 0.53 = 1.0000, so the multiplier is exactly 1 and the dial reading is already the true surface power for that material."
+ },
+ {
+  "id": 243,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Correct a +6.00 D clock reading on a 1.60 index lens.",
+  "back": "(1.60 minus 1) = 0.60, and 0.60 divided by 0.53 = 1.1321. True power = 6.00 multiplied by 1.1321 = 6.792, which rounds to +6.79 D."
+ },
+ {
+  "id": 244,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Correct a -8.00 D clock reading on a 1.67 index lens.",
+  "back": "(1.67 minus 1) = 0.67, and 0.67 divided by 0.53 = 1.2642. True power = 8.00 multiplied by 1.2642 = 10.113, which rounds to -10.11 D, about 26 percent more than the dial shows."
+ },
+ {
+  "id": 245,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Correct a -6.00 D clock reading on a 1.74 index lens.",
+  "back": "(1.74 minus 1) = 0.74, and 0.74 divided by 0.53 = 1.3962. True power = 6.00 multiplied by 1.3962 = 8.377, which rounds to -8.38 D, nearly 40 percent more than the dial shows."
+ },
+ {
+  "id": 246,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A polycarbonate lens reads +6.00 front and -8.00 back. Total power?",
+  "back": "Correct each surface first: 6.00 multiplied by 1.1057 = 6.634, and 8.00 multiplied by 1.1057 = 8.845. Adding gives 6.634 minus 8.845 = -2.21 D, not the -2.00 D the raw dial readings suggest."
+ },
+ {
+  "id": 247,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How do you tell which surface of a lens carries the cylinder?",
+  "back": "Rotate the clock slowly across each surface and watch the needle. If it holds steady on the front and changes on the back, the cylinder is on the back. If the front changes instead, the lens is front toric."
+ },
+ {
+  "id": 248,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "A back surface reads -6.00 D and -8.00 D 90 degrees apart. Surface cylinder?",
+  "back": "2.00 dioptres of surface cylinder, the difference between the two principal meridians, before any index correction. The highest and lowest needle readings mark those two meridians."
+ },
+ {
+  "id": 249,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Define sagittal depth and say what it depends on.",
+  "back": "Sagittal depth, or sag, is how deep a curve runs across a given diameter. It grows as the surface steepens and as the diameter of the lens blank increases."
+ },
+ {
+  "id": 250,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Calculate the sag of a +6.00 D base across a 50 mm diameter.",
+  "back": "Radius = 0.53 divided by 6.00 = 0.08833 m = 88.33 mm. Sag = 88.33 minus the square root of (88.33 squared minus 25 squared) = 88.33 minus 84.72 = 3.61 mm."
+ },
+ {
+  "id": 251,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Compare the sag of a +6.00 D and a +4.00 D base on a 50 mm blank.",
+  "back": "The +6.00 D base has a radius of 88.33 mm and a sag of 3.61 mm. The +4.00 D base has a radius of 132.5 mm and a sag of 2.38 mm, more than a millimetre shallower across the same blank."
+ },
+ {
+  "id": 252,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How does a steeper base curve change lens thickness?",
+  "back": "A steeper base increases centre thickness in a plus lens and edge thickness in a minus lens, because the extra sagittal depth has to go somewhere. Flattening thins the lens but degrades off axis performance."
+ },
+ {
+  "id": 253,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "State the classic guidance for choosing a base curve, and its tolerance.",
+  "back": "Put the base near 6.00 D for a plano lens, flattening as minus power rises and steepening as plus power rises. Where a work order specifies a base curve, the ANSI Z80.1 standard used by NACOR allows about 0.75 dioptres either side."
+ },
+ {
+  "id": 254,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "How much warpage does the tolerance standard permit in a finished lens?",
+  "back": "About 1.00 dioptre under the ANSI Z80.1 standard used by NACOR. A warped lens is also a common source of unwanted prism, so check both surfaces with the clock when prism appears that nobody ordered."
+ },
+ {
+  "id": 255,
+  "domain": "lens_neutralization",
+  "chapter": 5,
+  "front": "Which surface is meant by base curve, and what must you state on a front toric lens?",
+  "back": "The front surface, unless the work order says otherwise. On a front toric lens you must state which surface you measured, because the cylinder sits on the front rather than on the back."
+ },
+ {
+  "id": 256,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What is pupillary distance and where is it actually measured from?",
+  "back": "The horizontal separation between the visual axes of the two eyes, in millimetres. In practice you measure between the corneal reflexes, because the reflex is the closest visible landmark to the visual axis."
+ },
+ {
+  "id": 257,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Why must the optical centre sit in front of the visual axis?",
+  "back": "The optical centre is the one point on the lens carrying no prismatic effect. Place it anywhere else and the patient looks through a decentred part of the lens and picks up unwanted prism."
+ },
+ {
+  "id": 258,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "State Prentice's rule and the unit conversion it demands.",
+  "back": "P = c x F. Prism in prism dioptres equals the decentration in centimetres multiplied by the lens power in dioptres. Convert millimetres to centimetres first, which means dividing by 10."
+ },
+ {
+  "id": 259,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How much prism does 2 mm of decentration create on a -6.00 D lens?",
+  "back": "2 mm is 0.2 cm, so 0.2 x 6.00 = 1.20 prism dioptres in that one lens. The direction is base-in when the optical centres sit too far apart."
+ },
+ {
+  "id": 260,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "A PD recorded 4 mm too wide on -6.00 D lenses gives what total prism?",
+  "back": "Each eye is decentred 2 mm, giving 0.2 x 6.00 = 1.20 prism dioptres per lens. The two eyes add, so the patient fights roughly 2.40 prism dioptres base-in, enough to cause eyestrain and headache."
+ },
+ {
+  "id": 261,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What does that same 4 mm PD error produce on a +0.50 D lens?",
+  "back": "Only 0.2 x 0.50 = 0.10 prism dioptres per eye, which nobody notices. PD accuracy matters most in high powers, where a small decentration produces a large prismatic effect."
+ },
+ {
+  "id": 262,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What horizontal tolerance applies to a mounted single vision or multifocal pair?",
+  "back": "The ANSI Z80.1 standard used by NACOR requires the prism reference points to sit within 2.5 mm horizontally of the specified distance PD."
+ },
+ {
+  "id": 263,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What horizontal tolerance applies to a mounted progressive pair?",
+  "back": "1.0 mm from the specified monocular PD, with the vertical location of each prism reference point held to 1.0 mm and no more than 1.0 mm of vertical difference between the two lenses."
+ },
+ {
+  "id": 264,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What does a binocular PD tell you, and what does it hide?",
+  "back": "It is one number, reflex to reflex, right eye to left. It gives the total separation of the visual axes but says nothing about where the nose sits inside that total."
+ },
+ {
+  "id": 265,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Define monocular PD and show how it is written.",
+  "back": "Two numbers: bridge centre to the right corneal reflex, and bridge centre to the left. Written 32/31, meaning 32 mm right and 31 mm left, a binocular total of 63 mm."
+ },
+ {
+  "id": 266,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "A patient's true monocular values are 34/29. What does splitting 63 evenly cost?",
+  "back": "An even split gives 31.5 and 31.5, so each optical centre lands 2.5 mm off the true value. On a progressive that pair is outside tolerance before the lab starts surfacing."
+ },
+ {
+  "id": 267,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How much facial asymmetry should you expect, and what causes it?",
+  "back": "A 2 mm difference between the two sides is common and 3 mm is not unusual. Old trauma, a deviated septum and orthodontic history all contribute. If the bridge midpoint itself is displaced, odd looking values are still correct."
+ },
+ {
+  "id": 268,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "List the jobs that demand a monocular PD rather than a binocular one.",
+  "back": "Any progressive, prescribed prism, deliberate decentration, any power beyond roughly +/-4.00 D, a large or strongly asymmetrical eyesize, and occupational lenses with a defined corridor. That covers most modern work."
+ },
+ {
+  "id": 269,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Define distance PD in optical terms.",
+  "back": "The separation of the visual axes when the eyes fixate an object at optical infinity, which in practice means anything beyond about six metres. The visual axes are effectively parallel."
+ },
+ {
+  "id": 270,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Why is near PD smaller than distance PD?",
+  "back": "Both eyes rotate inward to converge on the near target, the visual axes cross at the working point, and the separation measured at the spectacle plane becomes smaller."
+ },
+ {
+  "id": 271,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How much smaller is near PD for an adult reading at 40 cm?",
+  "back": "About 3 to 4 mm less than distance PD, so a distance 64 usually gives a near of about 60 or 61. Wide PDs at short working distances lose 4 or 5 mm; narrow PDs at longer distances lose only 2 or 3."
+ },
+ {
+  "id": 272,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What is the plausible adult distance PD range?",
+  "back": "Roughly 54 to 74 mm, clustering around 60 to 66, with women averaging slightly narrower than men. Children run smaller, and PD grows with the skull well into the teens."
+ },
+ {
+  "id": 273,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What does a recorded distance 63 with a near 63 tell you?",
+  "back": "That the measurement failed. You left the pupilometer on the distance setting, or did not change position for the penlight near reading. A near PD equal to or larger than distance is always an error, because convergence cannot move the eyes apart."
+ },
+ {
+  "id": 274,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What is the first setup step in the penlight and ruler method?",
+  "back": "Sit directly facing the patient at the same eye level. Sight from above or below and you read the reflex position wrong. Candidates lose marks on this more often than on any other single element."
+ },
+ {
+  "id": 275,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Where do you hold the penlight for the distance PD measurement?",
+  "back": "At about 40 cm, held at your own eye level immediately below your sighting eye and pointed at the patient. Ask the patient to look directly at the light."
+ },
+ {
+  "id": 276,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Which reflex do you read, and why does it mark the visual axis?",
+  "back": "The first Purkinje image, the small bright dot reflected off the front surface of the cornea. Because the light sits beside your sighting eye, that reflex shows where the patient's visual axis is pointing, which is at you."
+ },
+ {
+  "id": 277,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Describe the sighting eye sequence for a binocular penlight PD.",
+  "back": "You face the patient, so sight with the eye opposite the one you are marking. For the patient's right eye, close your right and sight with your left, placing the rule zero on that reflex. Without moving the rule, swap sighting eyes and read the mark falling on the left reflex."
+ },
+ {
+  "id": 278,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Why must you switch sighting eyes between the two rule readings?",
+  "back": "It cancels the parallax created by your own viewing angle, since your eye, the rule and the patient's cornea sit at three different depths. Sight both readings from one position and the result shifts a millimetre or more."
+ },
+ {
+  "id": 279,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Give the single rule placement that yields both monocular values at once.",
+  "back": "Place zero on one corneal reflex, read the other reflex for the binocular total, then read the bridge midpoint against that same rule position without moving it. Both monocular values must sum to the binocular total."
+ },
+ {
+  "id": 280,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Name the four sanity checks before handing in a PD sheet.",
+  "back": "Distance greater than near. The two monocular values summing to the binocular total. Distance PD inside the plausible adult range. Right eye value written first. Those checks take fifteen seconds and catch most errors."
+ },
+ {
+  "id": 281,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Why read to the corneal reflex rather than the pupil centre or edge?",
+  "back": "Pupil size changes with light level, accommodation and emotional state, and the pupil does not always change symmetrically about its own geometric centre. Reading to an edge means guessing where the centre lies behind a moving aperture."
+ },
+ {
+  "id": 282,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Describe the limbus to limbus ruler method step by step.",
+  "back": "Place the rule zero on the temporal limbus of the patient's right eye and read to the nasal limbus of the left. Corneal diameter cancels out, so the result approximates the binocular PD while the patient fixates distance."
+ },
+ {
+  "id": 283,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "State the limitations of the limbus to limbus method.",
+  "back": "The limbus is a soft boundary, so your chosen edge can vary by a millimetre. It assumes equal corneal diameters and aligned eyes, failing in strabismus, and gives no reliable monocular split. Use it only as a cross-check."
+ },
+ {
+  "id": 284,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Where is the penlight held for near PD, and why is there no eye swap?",
+  "back": "Directly in front of your own nose, on the midline, at the patient's reading level. Both eyes converge on a point you occupy. Because the target is not beside one eye, hold your head steady and read across from one rule placement."
+ },
+ {
+  "id": 285,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How does high ametropia distort a PD measurement?",
+  "back": "Strong plus magnifies the pupil and reflex so the eyes look wider apart than they are, and strong minus makes them look narrower. Measure with the habitual spectacles removed."
+ },
+ {
+  "id": 286,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "Why measure near PD at the patient's true working distance?",
+  "back": "Someone reading labels at 30 cm converges more, and shows a smaller near PD, than the same person reading a novel at 45 cm. Ask about the habitual distance before you measure."
+ },
+ {
+  "id": 287,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What does a corneal reflection pupillometer contain and read?",
+  "back": "An internal illuminated target and a light source producing a corneal reflex on each eye. You slide a hairline over each reflex; a central scale reads the binocular total and two side scales read each monocular value."
+ },
+ {
+  "id": 288,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What are the first two settings on a pupilometer before you seat it?",
+  "back": "Set the distance dial to infinity, marked DIST or the infinity symbol, for a distance PD. Then set the vertex control, if the model has one, to the vertex you intend to fit, commonly 12 to 14 mm."
+ },
+ {
+  "id": 289,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How do you seat and read a pupilometer correctly?",
+  "back": "Place the nose rest on the bridge, bring the forehead rest to the brow and hold it level. Have the patient watch the internal target, bisect each reflex with its hairline, then check the monocular values sum to the total."
+ },
+ {
+  "id": 290,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "What is the single most common pupilometer error at the exam?",
+  "back": "Forgetting to switch the dial from infinity to the near working distance before the near reading. Convergence changes only because the internal target moved, so a dial left at infinity simply gives a second distance value."
+ },
+ {
+  "id": 291,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How is a pupilometer handled between patients?",
+  "back": "The nose rest and forehead rest touch skin, so wipe both with an approved disinfectant between every patient and let them dry before the next use. Handle the eyepiece without touching the optics."
+ },
+ {
+  "id": 292,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "The penlight and pupilometer disagree by 2 mm. What do you do?",
+  "back": "Expect agreement within about 1 mm, so repeat both rather than averaging or picking one. Trust the pupilometer for a routine binocular patient with clear fixation, and a careful occluded penlight reading for strabismus, a prosthesis or unreliable fixation."
+ },
+ {
+  "id": 293,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "State the recording convention for distance and near PD.",
+  "back": "Right eye first, then left, separated by a slash and labelled: Distance PD 32/31 (63 binocular), Near PD 30/29 (59 binocular). A bare pair of numbers with no label means something different to a lab."
+ },
+ {
+  "id": 294,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How do you measure PD on a patient with strabismus or amblyopia?",
+  "back": "Measure each eye separately. Occlude the other eye, have the patient fixate the penlight with the eye being measured, and read that reflex to the bridge midpoint. Swap the occluder and repeat for the other eye."
+ },
+ {
+  "id": 295,
+  "domain": "measurement",
+  "chapter": 6,
+  "front": "How do you handle a prosthetic eye, and how do you measure a child?",
+  "back": "A prosthesis has no visual axis, so measure the seeing eye to the bridge midpoint and match the artificial side for cosmetic symmetry. For a child, shorten the working distance, use a bright target, work quickly, and remeasure every visit."
+ },
+ {
+  "id": 296,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Define vertex distance and name both of its endpoints.",
+  "back": "The distance from the back surface of the spectacle lens to the front surface of the cornea, measured along the line of sight with the eye looking straight ahead at distance. Recorded in millimetres."
+ },
+ {
+  "id": 297,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Why is vertex measured to the back surface rather than the front of the lens?",
+  "back": "Every power on a Canadian prescription is a back vertex power, so the back vertex, the point on the concave surface lying on the visual axis, is correct. Measure to the front and you read too large by the centre thickness."
+ },
+ {
+  "id": 298,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What vertex distances are typical, and what does a phoropter usually record?",
+  "back": "Spectacle vertex runs about 10 mm to 16 mm, with 12 mm to 14 mm usual for an adult in a well adjusted frame. A phoropter commonly records 13.5 mm, and that figure belongs on the prescription when power is high."
+ },
+ {
+  "id": 299,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What does the term lens effectivity mean?",
+  "back": "A lens has no single fixed effect on the eye. Its effect depends on where it sits relative to the far point, so moving the lens moves its focal point relative to the retina and changes the effective power at the eye."
+ },
+ {
+  "id": 300,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What happens to a plus lens when it moves away from the eye?",
+  "back": "It gains effective plus power. Slide a +10.00 D lens forward down the nose and the patient is effectively over-plussed, so to give the same correction from that farther position you would order less plus."
+ },
+ {
+  "id": 301,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What happens to a minus lens when it moves away from the eye?",
+  "back": "It loses effective minus power. Slide a -10.00 D lens forward and the patient is under-corrected and blurred at distance, so from that farther position you would order more minus."
+ },
+ {
+  "id": 302,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Reduce lens effectivity to one line covering both plus and minus.",
+  "back": "As any lens moves away from the eye, its effect at the eye shifts in the plus direction. Plus gains plus power, minus loses minus power, and both changes point the same way."
+ },
+ {
+  "id": 303,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "A high myope refracted at 13.5 mm is dispensed at 18 mm. What happens?",
+  "back": "The minus lens sits farther away, loses effective minus, and the patient is under-corrected, saying the new glasses are not as sharp as the trial frame. Every power reads within tolerance, so the error was the optician's."
+ },
+ {
+  "id": 304,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "At what power does vertex compensation become necessary?",
+  "back": "Normally once a meridian exceeds about +/-4.00 D. Below that the arithmetic gives changes smaller than the quarter dioptre steps a lab can make. Beyond +/-8.00 D the change becomes clinically obvious."
+ },
+ {
+  "id": 305,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "State the vertex compensation formula and name every term.",
+  "back": "Fc = F / (1 - d x F). F is the prescribed power in that meridian in dioptres, Fc is the compensated power for the new position, and d is the change in vertex distance expressed in metres."
+ },
+ {
+  "id": 306,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What sign does d carry in the compensation formula?",
+  "back": "d is positive when the lens moves closer to the eye and the vertex distance decreases. d is negative when the lens moves farther from the eye and the vertex distance increases. The sign carries the whole meaning."
+ },
+ {
+  "id": 307,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "How do you prepare d, and how do you treat a sphero-cylinder?",
+  "back": "Divide the change in millimetres by 1000, so 4 mm becomes 0.004 m. Compensate a sphero-cylinder one meridian at a time, never as a single sphere, then rebuild sphere and cylinder from the two results."
+ },
+ {
+  "id": 308,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "How is a compensated power rounded before ordering?",
+  "back": "Round to the nearest 0.25 D, because that is how the trade orders lenses. If the result lands within 0.125 D of the original, order the original power and note the vertex on the job."
+ },
+ {
+  "id": 309,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx +8.00 D refracted at 14 mm, frame sits at 10 mm. Compensate it.",
+  "back": "The lens is 4 mm closer, so d = +0.004. 0.004 x 8.00 = 0.032 and 1 - 0.032 = 0.968. Fc = 8.00 / 0.968 = 8.2645 D, so order +8.25 D. Plus moved closer lost effective plus, so more plus is needed."
+ },
+ {
+  "id": 310,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx +12.00 D refracted at 12 mm, frame sits at 18 mm. Compensate it.",
+  "back": "The lens is 6 mm farther, so d = -0.006. -0.006 x 12.00 = -0.072 and 1 - (-0.072) = 1.072. Fc = 12.00 / 1.072 = 11.1940 D, so order +11.25 D. Plus moved away gained effective plus, so less plus is needed."
+ },
+ {
+  "id": 311,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx +5.00 D refracted at 13 mm, frame sits at 9 mm. Compensate it.",
+  "back": "d = +0.004, so 0.004 x 5.00 = 0.020 and 1 - 0.020 = 0.980. Fc = 5.00 / 0.980 = 5.1020 D. The change of 0.102 D is under 0.125 D, so order +5.00 D unchanged. No change is a correct outcome."
+ },
+ {
+  "id": 312,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx -9.00 D refracted at 12 mm, frame sits at 8 mm. Compensate it.",
+  "back": "d = +0.004, so 0.004 x -9.00 = -0.036 and 1 - (-0.036) = 1.036. Fc = -9.00 / 1.036 = -8.6873 D, so order -8.75 D. A minus lens moved closer needs less minus."
+ },
+ {
+  "id": 313,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx -10.00 D refracted at 10 mm, frame sits at 16 mm. Compensate it.",
+  "back": "d = -0.006, so -0.006 x -10.00 = +0.060 and 1 - 0.060 = 0.940. Fc = -10.00 / 0.940 = -10.6383 D, so order -10.75 D. The minus lens moved away lost effective minus, so more minus is required."
+ },
+ {
+  "id": 314,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Rx -6.00 D refracted at 14 mm, frame sits at 10 mm. Compensate it.",
+  "back": "d = +0.004, so 0.004 x -6.00 = -0.024 and 1 - (-0.024) = 1.024. Fc = -6.00 / 1.024 = -5.8594 D, which rounds to the nearest quarter dioptre, so order -5.75 D."
+ },
+ {
+  "id": 315,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Compensate -8.00 -2.00 x 180 refracted at 13 mm for a frame at 9 mm.",
+  "back": "d = +0.004 and the meridians are -8.00 and -10.00. -8.00 / 1.032 = -7.7519, rounding to -7.75. -10.00 / 1.040 = -9.6154, rounding to -9.50. The cylinder is -9.50 minus -7.75, so order -7.75 -1.75 x 180."
+ },
+ {
+  "id": 316,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What is a distometer and how do you use it?",
+  "back": "A vertex instrument whose fixed foot rests on the closed eyelid while a moving arm touches the back lens surface. Its scale already subtracts about 0.5 mm of lid thickness. Close the eye, seat the foot, close the arm, read."
+ },
+ {
+  "id": 317,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "How accurate is judging vertex distance by rule from the side?",
+  "back": "Quick but genuinely hard. You judge a 12 mm gap across a curved cornea from an angle with the lash line in the way. A 2 mm error is easy, and on a -12.00 D lens that is worth about a quarter dioptre."
+ },
+ {
+  "id": 318,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Why must the frame be adjusted before you measure anything?",
+  "back": "Vertex and both heights describe where the lens sits relative to the eye. A frame sliding 3 mm down the nose changes the vertex, changes the tilt, and moves every height by that same 3 mm."
+ },
+ {
+  "id": 319,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Define pantoscopic tilt and explain its link to vertex distance.",
+  "back": "The forward rotation of the frame front so the bottom of the eyewire sits closer to the face than the top. Adding tilt pulls the lens bottom in and pushes the top out, so measure the vertex only after the tilt is set."
+ },
+ {
+  "id": 320,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "State the optical centre drop rule for pantoscopic tilt, with two examples.",
+  "back": "Drop the optical centre about 1 mm for every 2 degrees of tilt, so the eye still looks through the centre. Ten degrees calls for about 5 mm below pupil centre, and 8 degrees for about 4 mm."
+ },
+ {
+  "id": 321,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "How does a progressive differ from the pantoscopic drop rule?",
+  "back": "It is exempt. The fitting cross sits at pupil centre by design and the manufacturer builds the tilt compensation into the lens, so never apply the 1 mm per 2 degrees drop to a progressive fitting cross."
+ },
+ {
+  "id": 322,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Where is segment height measured from and to, on a flat-top bifocal?",
+  "back": "From the deepest part of the lens shape, which in a mounted frame is the deepest part of the eyewire groove at the bottom, straight up to the TOP of the segment. Recorded in millimetres for each eye."
+ },
+ {
+  "id": 323,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Where is fitting cross height measured from and to, on a progressive?",
+  "back": "From the deepest part of the eyewire groove straight up to the PUPIL CENTRE. Not the lower lid, not the limbus, the centre of the pupil. Recorded in millimetres for each eye."
+ },
+ {
+  "id": 324,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What eye reference starts a flat-top segment height, and how final is it?",
+  "back": "The patient's lower lid margin. Measure from the deepest part of the groove up to the lid margin. That is a starting point to confirm and adjust for the individual, not a final answer."
+ },
+ {
+  "id": 325,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "How far above the lower lid margin does the pupil centre usually sit?",
+  "back": "Roughly 4 mm to 6 mm on a typical adult. That gap is exactly why a progressive measured to the lid, or a bifocal measured to the pupil, goes wrong by about a full segment position."
+ },
+ {
+  "id": 326,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What goes wrong when a progressive is measured to the lower lid margin?",
+  "back": "The fitting cross lands about 5 mm too low. That drops the corridor and pushes the near zone below the useful part of the lens, leaving a patient who cannot read without lifting the chin."
+ },
+ {
+  "id": 327,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What goes wrong when a flat-top is measured to the pupil centre?",
+  "back": "The segment sits about 5 mm too high, putting the segment line straight across the pupil. Say it before you mark: flat-top to the lid, progressive to the pupil."
+ },
+ {
+  "id": 328,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Name the two Part C heights and the eye reference each one uses.",
+  "back": "Segment height for a flat-top bifocal, measured to the lower lid margin. Fitting cross height for a progressive, measured to the pupil centre. Same units, same form, same face, different references, and confusing them is the classic Part C failure."
+ },
+ {
+  "id": 329,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "Describe the correct technique for marking a height on the demo lens.",
+  "back": "Put your eye at exactly the patient's eye height at about 40 cm, have the patient fixate your open eye, and close the eye you are not using. Then let the patient look away and back, and check the mark still lines up."
+ },
+ {
+  "id": 330,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What vertical tolerance applies between the two lenses of a mounted progressive?",
+  "back": "The ANSI Z80.1 standard used by NACOR allows only about 1 mm of vertical difference between the two lenses on a mounted progressive or bifocal, so a sloppy mark is out of tolerance before the lab starts."
+ },
+ {
+  "id": 331,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "In a nylon mount frame, what is the reference point for a height?",
+  "back": "The bottom of the groove cut in the lens edge, at its deepest point on the vertical meridian. Not the nylon cord, which sits inside the groove and reads a fraction of a millimetre off, and not an ungrooved demo lens edge."
+ },
+ {
+  "id": 332,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What is a progressive design's minimum fitting height?",
+  "back": "The smallest vertical distance from the fitting cross down to the bottom edge of the finished lens that still leaves a usable corridor and near zone. Older long corridor designs need 22 mm or more, modern short corridors 14 to 18 mm."
+ },
+ {
+  "id": 333,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "What is the frame's B measurement and why does it decide lens choice?",
+  "back": "The vertical depth of the lens shape at its deepest point. If B is small, or the pupil sits low in the shape, the fitting cross height can fall below the design minimum and the progressive cannot be cut."
+ },
+ {
+  "id": 334,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "A B of 26 mm puts the pupil at the vertical midpoint. What height results?",
+  "back": "About 13 mm, since 26 divided by 2 is 13. A design needing an 18 mm minimum cannot be cut. Choose a deeper frame, a short corridor design needing 14 mm, or another lens type. Checking B early saves a remake."
+ },
+ {
+  "id": 335,
+  "domain": "measurement",
+  "chapter": 7,
+  "front": "State the recording conventions for heights and vertex distance.",
+  "back": "Right eye before left, always labelled OD and OS, or R and L. Fitting cross height OD 22 mm, OS 22 mm. Seg height OD 17 mm, OS 17 mm with the segment style stated. Vertex OD 13 mm, OS 13 mm."
+ },
+ {
+  "id": 336,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What makes verification a comparison task rather than a discovery task?",
+  "back": "Verification supplies the work order alongside the eyewear, so you already know the ordered values. You measure, subtract the ordered value from the measured value, then judge that difference against the allowance."
+ },
+ {
+  "id": 337,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "In one sentence, what question does neutralization ask?",
+  "back": "Neutralization asks what is it. You receive eyewear with no information and determine sphere, cylinder, axis, add, prism, PD, heights, and base curve from scratch."
+ },
+ {
+  "id": 338,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "In one sentence, what question does verification ask?",
+  "back": "Verification asks is it what it should be. You compare each measured value against the work order and judge the difference against the allowance that applies to that parameter."
+ },
+ {
+  "id": 339,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which exam section is neutralization and which is verification?",
+  "back": "Neutralization is Section 2, worth 38 percent over 75 minutes with five pairs. Verification is Section 4, worth 18 percent over 60 minutes with four pairs and their work orders."
+ },
+ {
+  "id": 340,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which step do candidates forget when they treat verification as neutralization?",
+  "back": "The comparison step. They read the lens accurately and record the number, then never subtract the ordered value or check the difference against the allowance, so no verdict is ever reached."
+ },
+ {
+  "id": 341,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Name the prescription elements a work order states for each eye.",
+  "back": "Sphere power, cylinder power, cylinder axis, and add power, plus any prescribed prism with its base direction. Each of these is a separate verification check with its own allowance."
+ },
+ {
+  "id": 342,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which frame details does a work order specify?",
+  "back": "Manufacturer, model, colour code, eye size, bridge size, and temple length. Confirm all six against the frame in front of you before any lens measurement begins."
+ },
+ {
+  "id": 343,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which lens details beyond power appear on a work order?",
+  "back": "Material and index, the lens design such as single vision, flat-top of a stated segment width, round segment, or a named progressive, plus every treatment ordered including coatings, tint, photochromic, polarized, and mirror."
+ },
+ {
+  "id": 344,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How much time should you spend reading the order before measuring?",
+  "back": "About two minutes on the whole order. That saves you from measuring a progressive as a single vision lens, or from applying a segment allowance to a job that has no segment."
+ },
+ {
+  "id": 345,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How many minutes per pair does Section 4 allow?",
+  "back": "Fifteen minutes per pair, since four pairs must be verified in 60 minutes. That figure includes handling the eyewear and writing your verdicts, not just taking measurements."
+ },
+ {
+  "id": 346,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why does a fixed verification routine make four pairs in 60 minutes possible?",
+  "back": "A fixed sequence keeps your hands moving without your brain choosing what comes next. Wandering between parameters wastes minutes and lets whole items go unchecked under the timer."
+ },
+ {
+  "id": 347,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What is the first step of the systematic verification sequence?",
+  "back": "Confirm the frame itself: manufacturer, model, colour, eye size, bridge, and temple length. A perfect pair of lenses in the wrong frame is still a failed job."
+ },
+ {
+  "id": 348,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "State steps two through four of the verification sequence.",
+  "back": "Second, distance sphere power in each eye separately. Third, cylinder power and axis in each eye. Fourth, add power, taken as the difference between the near reading and the distance reading."
+ },
+ {
+  "id": 349,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "State steps five through seven of the verification sequence.",
+  "back": "Fifth, horizontal location of the optical centre or PRP against the specified PD. Sixth, vertical heights on each lens and the difference between them. Seventh, prescribed prism and any unwanted prism."
+ },
+ {
+  "id": 350,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "State the last three steps of the verification sequence.",
+  "back": "Eighth, base curve if one was specified. Ninth, lens material and treatments including index, coatings, tint density, and polarized orientation. Tenth, cosmetic and mechanical inspection of both lenses and the frame."
+ },
+ {
+  "id": 351,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why should you write each verdict down as you go?",
+  "back": "Holding four pairs of results in your head guarantees a lost item or a mixed up lens. Recording each verdict immediately also gives you the numbers you need if the job is returned."
+ },
+ {
+  "id": 352,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why is the frame check the most commonly missed item in Section 4?",
+  "back": "Candidates walk straight to the lensometer because power feels like the real work. The frame carries marks of its own, and a wrong model or colour fails the job outright."
+ },
+ {
+  "id": 353,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which frame measurements are compared against the work order?",
+  "back": "Eye size, bridge size, and temple length, read from the frame markings and compared with the ordered values. A frame that is the right model in the wrong size is a returnable job."
+ },
+ {
+  "id": 354,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What does confirming the frame colour actually require?",
+  "back": "Matching the manufacturer colour code on the work order against the code marked on the frame, not judging the shade by eye. Colour codes distinguish finishes that look nearly identical."
+ },
+ {
+  "id": 355,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Describe the four mechanical steps of applying any tolerance.",
+  "back": "Find the measured value, find the specified value on the work order, subtract to get the difference, then compare that difference against the allowance for that parameter at that power."
+ },
+ {
+  "id": 356,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why does the direction of a measured error not matter?",
+  "back": "Tolerance is symmetric, so only the size of the difference counts. A reading 0.12 dioptres over the ordered power and one 0.12 dioptres under are treated identically."
+ },
+ {
+  "id": 357,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How is a difference exactly equal to the allowance judged?",
+  "back": "It is within tolerance. A difference smaller than or equal to the allowance passes, and only a difference larger than the allowance sends the job back to the lab."
+ },
+ {
+  "id": 358,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How do you handle a power that sits exactly on a band boundary?",
+  "back": "The bands read over X to Y, so a value of exactly Y falls in the band ending at Y, not the band beginning above it. Check how the supplied chart words its boundaries."
+ },
+ {
+  "id": 359,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A single vision sphere ordered minus 3.25 reads minus 3.37. Verdict?",
+  "back": "The difference is 0.12 dioptres. At this power the sphere allowance is a fixed dioptric amount of 0.13 dioptres rather than a percentage, so the error is smaller than the allowance and the sphere passes."
+ },
+ {
+  "id": 360,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A single vision sphere ordered minus 8.00 reads minus 8.20. Verdict?",
+  "back": "Above 6.50 dioptres the sphere allowance stops being a fixed amount and becomes 2 percent of the ordered meridian, so 0.16 dioptres here. The difference is 0.20 dioptres, larger than that, so the lens goes back."
+ },
+ {
+  "id": 361,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A sphere ordered at minus 10.00 measures minus 10.18. What is the verdict?",
+  "back": "Within tolerance. The difference is 0.18 dioptres, and 2 percent of 10.00 dioptres is 0.20 dioptres, so the error is smaller than the allowance and the sphere passes."
+ },
+ {
+  "id": 362,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A progressive sphere ordered minus 7.00 reads minus 7.16. Which row decides it?",
+  "back": "The progressive sphere row, not the single vision one. A single vision lens at that power would be judged against a percentage allowance, while the progressive row is looser and its threshold sits higher, so identify the design before choosing a row."
+ },
+ {
+  "id": 363,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A single vision cylinder ordered minus 1.75 reads minus 1.89. Verdict?",
+  "back": "The difference is 0.14 dioptres. A cylinder of 1.75 dioptres sits in the lowest band, allowed 0.13 dioptres on a single vision lens, so the error is larger than the allowance and the job returns to the lab."
+ },
+ {
+  "id": 364,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A flat-top bifocal cylinder ordered minus 3.00 reads minus 3.15. Verdict?",
+  "back": "The difference is 0.15 dioptres. On this conventional multifocal a cylinder above 2.00 and up to 4.50 dioptres is allowed 0.15 dioptres, and a difference equal to the allowance is within tolerance, so accept it."
+ },
+ {
+  "id": 365,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A cylinder ordered at minus 2.50 measures minus 2.62. What is the verdict?",
+  "back": "Within tolerance. The difference is 0.12 dioptres against an allowance of 0.15 dioptres for a cylinder in this middle band, so the job is accepted on that parameter."
+ },
+ {
+  "id": 366,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A single vision cylinder ordered minus 5.00 reads minus 5.22. Verdict?",
+  "back": "Above 4.50 dioptres the cylinder allowance becomes 4 percent of the ordered power, so 0.20 dioptres here. The difference is 0.22 dioptres, larger than that, so the lens fails on cylinder power."
+ },
+ {
+  "id": 367,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why can the same 0.18 dioptre cylinder error pass one job and fail another?",
+  "back": "Because the allowance changes form, not just size. A 0.18 dioptre error exceeds the fixed dioptric allowance the lower cylinder bands use, yet on a high cylinder the allowance is a percentage of the ordered power, and the same error can fall inside it."
+ },
+ {
+  "id": 368,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What single value decides which axis allowance applies?",
+  "back": "The cylinder power of that lens, not the axis number and not the sphere power. Higher cylinder power tightens the axis allowance, because more cylinder makes a given rotation more noticeable."
+ },
+ {
+  "id": 369,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered minus 1.00 minus 0.25 x 180, the axis reads 168. Verdict?",
+  "back": "The deviation is 12 degrees. A cylinder of 0.25 dioptres or less carries the widest axis allowance at 14 degrees, since so little cylinder makes a large rotation hard to notice, so accept it."
+ },
+ {
+  "id": 370,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered minus 0.75 minus 0.50 x 045, the axis reads 053. Verdict?",
+  "back": "The deviation is 8 degrees. A cylinder above 0.25 and up to 0.50 dioptres is allowed 7 degrees, so the error is larger than the allowance and the lens goes back."
+ },
+ {
+  "id": 371,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered minus 2.25 minus 0.75 x 120, the axis reads 115. Verdict?",
+  "back": "The deviation is 5 degrees. A cylinder above 0.50 and up to 0.75 dioptres is allowed 5 degrees, and a difference equal to the allowance is within tolerance, so accept it."
+ },
+ {
+  "id": 372,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered minus 1.50 minus 1.25 x 070, the axis reads 074. Verdict?",
+  "back": "The deviation is 4 degrees. A cylinder above 0.75 and up to 1.50 dioptres is allowed 3 degrees, so this axis sits outside tolerance and the job returns to the lab."
+ },
+ {
+  "id": 373,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered minus 0.50 minus 2.00 x 005, the axis reads 003. Verdict?",
+  "back": "The deviation is 2 degrees. Above 1.50 dioptres of cylinder the axis allowance is at its tightest at 2 degrees, and a difference equal to the allowance passes, so accept it."
+ },
+ {
+  "id": 374,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered L minus 1.50 minus 0.50 x 010, axis reads 013. What is the verdict?",
+  "back": "Within tolerance. The difference is 3 degrees, and a 0.50 dioptre cylinder is allowed 7 degrees, so the axis passes even though the error looks large written down."
+ },
+ {
+  "id": 375,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Ordered R minus 4.00 minus 3.00 x 165, axis reads 168. What is the verdict?",
+  "back": "Not within tolerance. The difference is 3 degrees, and a cylinder above 1.50 dioptres is allowed only 2 degrees, so this lens returns to the lab."
+ },
+ {
+  "id": 376,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why can two lenses with identical 3 degree axis errors get opposite verdicts?",
+  "back": "Because their cylinder powers differ. Nothing about the axis number decides the verdict. A low cylinder tolerates a 3 degree error easily, while a high cylinder does not."
+ },
+ {
+  "id": 377,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What habit prevents choosing the wrong axis allowance?",
+  "back": "Circle the cylinder power on the work order first, then look up the axis row on the supplied chart. Reading the axis row before the cylinder power is the usual cause of this error."
+ },
+ {
+  "id": 378,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A cylinder of exactly 1.50 dioptres falls in which axis band?",
+  "back": "The band that ends at 1.50 dioptres, which allows plus or minus 3 degrees, because the bands read over X to Y. Confirm the wording on the chart supplied that day."
+ },
+ {
+  "id": 379,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "An add ordered at plus 3.25 measures plus 3.15. Verdict?",
+  "back": "The difference is 0.10 dioptres against an allowance of 0.12 dioptres for an add up to plus 4.00 dioptres, so the add is within tolerance and the lens passes on that parameter."
+ },
+ {
+  "id": 380,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "An add ordered at plus 5.00 measures plus 4.80. Verdict?",
+  "back": "The difference is 0.20 dioptres. Above plus 4.00 dioptres the add allowance widens to 0.18 dioptres, but 0.20 is still larger than that, so the lens returns to the lab."
+ },
+ {
+  "id": 381,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why is the add power allowance so tight?",
+  "back": "The add is a difference of two lensometer readings, the near reading minus the distance reading, so any error in the distance reading carries straight through into the add."
+ },
+ {
+  "id": 382,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "An add ordered at plus 2.50 measures plus 2.37. What is the verdict?",
+  "back": "Not within tolerance. The difference is 0.13 dioptres against an allowance of 0.12 dioptres for an add up to plus 4.00 dioptres, so the job returns to the lab."
+ },
+ {
+  "id": 383,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "An add ordered at plus 4.50 measures plus 4.68. What is the verdict?",
+  "back": "Within tolerance. The difference is 0.18 dioptres, which equals the allowance for an add above plus 4.00 dioptres, and a difference equal to the allowance passes."
+ },
+ {
+  "id": 384,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What does PRP stand for and what is it?",
+  "back": "Prism reference point, the point on the lens where prescribed prism is specified and where unwanted prism is checked. On a progressive it is located from the manufacturer engravings."
+ },
+ {
+  "id": 385,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "No prism was ordered, yet the PRP reads 0.50 prism dioptres base in. Verdict?",
+  "back": "Outside tolerance. Unwanted prism at the prism reference point is allowed up to 0.33 prism dioptres, and 0.50 is larger than that, so the lens is decentred enough to send back."
+ },
+ {
+  "id": 386,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Prism was prescribed and the PRP sits 1.5 mm below its specified location. Verdict?",
+  "back": "Outside tolerance. When prism is ordered the prism reference point must sit within 1.0 millimetre of the specified location, because a displaced reference point changes the prism actually delivered to the eye."
+ },
+ {
+  "id": 387,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "When is base curve verified during a Section 4 job?",
+  "back": "Only when the work order specifies a base curve. If none was ordered there is nothing to verify, and inventing the check wastes time you need on other parameters."
+ },
+ {
+  "id": 388,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A 6.00 base curve was ordered and the lens clock reads 6.50. Verdict?",
+  "back": "The difference is 0.50 dioptres against an allowance of 0.75 dioptres on a specified base curve, so it passes. That allowance is generous compared with the ones applied to lens powers."
+ },
+ {
+  "id": 389,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which instrument reads base curve and what is its calibration?",
+  "back": "A lens clock, also called a Geneva lens measure, calibrated for an index of 1.53. A correction factor is required when the lens material has a different index."
+ },
+ {
+  "id": 390,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Distance PD ordered 62.0 mm, the PRP dots on a mounted bifocal measure 59.0 mm apart. Verdict?",
+  "back": "The difference is 3.0 millimetres, and a mounted single vision or conventional multifocal pair is allowed 2.5 millimetres from the specified distance PD, so horizontal centration fails."
+ },
+ {
+  "id": 391,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "On a mounted single vision pair, one PRP sits 1.6 mm higher than the other. Verdict?",
+  "back": "Outside tolerance. The two prism reference points may differ in height by no more than 1.0 millimetre, so this pair fails even though its horizontal centration measured perfectly."
+ },
+ {
+  "id": 392,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A progressive ordered at a 33.0 mm monocular PD marks at 32.2 mm. Verdict?",
+  "back": "The difference is 0.8 millimetres, inside the 1.0 millimetre a mounted progressive allows from the specified monocular PD, so it passes. The tighter progressive figure is the one to apply here."
+ },
+ {
+  "id": 393,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Monocular PDs ordered 32.0 and 32.5, PRP dots measure 66.0 mm apart. What is the verdict?",
+  "back": "Within tolerance. The specified total is 64.5 millimetres, the difference is 1.5 millimetres, and a mounted single vision job allows 2.5 millimetres, so horizontal centration passes."
+ },
+ {
+  "id": 394,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A progressive ordered at a 31.5 mm monocular PD marks at 32.8 mm. What is the verdict?",
+  "back": "Not within tolerance. The difference is 1.3 millimetres, and a mounted progressive allows only 1.0 millimetre from the specified monocular PD, so the job goes back."
+ },
+ {
+  "id": 395,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A segment ordered at a 16.0 mm height measures 15.2 mm on the right lens. Verdict?",
+  "back": "The difference is 0.8 millimetres against an allowance of 1.0 millimetre for the vertical location of each segment, judged lens by lens, so this lens passes that check."
+ },
+ {
+  "id": 396,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Segments ordered at 16.5 mm measure 17.0 mm right and 15.8 mm left. Verdict?",
+  "back": "Each lens sits inside the 1.0 millimetre allowed on its own, but the two segments differ by 1.2 millimetres, more than the 1.0 millimetre allowed between lenses, so the pair fails that separate check."
+ },
+ {
+  "id": 397,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Near PD ordered 58.0 mm, the segment centres measure 60.0 mm apart. Verdict?",
+  "back": "The difference is 2.0 millimetres against an allowance of 2.5 millimetres, so it passes. Horizontal segment location is checked against the near PD, never against the distance PD."
+ },
+ {
+  "id": 398,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "The segment line of a flat-top bifocal reads 177 instead of 180. Verdict?",
+  "back": "Outside tolerance. Segment tilt is measured from the 180 meridian and may not exceed 2 degrees, and this segment sits 3 degrees off, showing as a visibly sloping segment line."
+ },
+ {
+  "id": 399,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A flat-top 28 was ordered and the segment measures 28.4 mm wide. Verdict?",
+  "back": "The difference is 0.4 millimetres against a segment size allowance of 0.5 millimetres, so it passes. A segment measuring 25 millimetres would be the wrong segment supplied, not a tolerance question."
+ },
+ {
+  "id": 400,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A segment ordered at 18.0 mm measures 19.5 mm on the left lens. What is the verdict?",
+  "back": "Not within tolerance. The difference is 1.5 millimetres against an allowance of 1.0 millimetre for the vertical location of each segment, so that lens returns to the lab."
+ },
+ {
+  "id": 401,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How do progressive power allowances compare with single vision allowances?",
+  "back": "Progressive power allowances are slightly looser, since a progressive surface is harder to make to an exact power. Their centration allowances run the other way and are considerably tighter."
+ },
+ {
+  "id": 402,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why must you identify the lens design before choosing an allowance?",
+  "back": "Single vision, conventional multifocal, and progressive carry different allowances, so the same measured error can pass one design and fail another. Applying the wrong row gives a wrong answer."
+ },
+ {
+  "id": 403,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A 1.3 mm centration error passes on a flat-top bifocal. Why might it fail on a progressive?",
+  "back": "Because a mounted progressive allows the PRP only 1.0 millimetre from the specified monocular PD, tighter than the allowance covering conventional multifocals. Same measurement, different design, opposite verdict."
+ },
+ {
+  "id": 404,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "The order specifies a 2.0 mm centre thickness and the calliper reads 2.4 mm. Verdict?",
+  "back": "The difference is 0.4 millimetres against an allowance of 0.3 millimetres, so it fails. The check applies only because the work order actually specified a centre thickness."
+ },
+ {
+  "id": 405,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "A lens sprung into a tight eyewire shows 1.25 dioptres of warpage. Verdict?",
+  "back": "Outside tolerance. Warpage is allowed up to 1.00 dioptre, so 1.25 fails. It appears as unwanted power at the lensometer, and the strained frame is a separate fault to record."
+ },
+ {
+  "id": 406,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What does a lens forced into an undersized eyewire cause?",
+  "back": "It springs the eyewire and can induce warpage, which appears as unwanted power at the lensometer. The frame damage and the optical error are two separate faults to record."
+ },
+ {
+  "id": 407,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which surface faults are looked for during cosmetic inspection?",
+  "back": "Scratches, chips at the edge or surface, waves or distortion when the lens sweeps across a straight line, bubbles in the material, and striae showing as fine streaks in the substrate."
+ },
+ {
+  "id": 408,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which coating and tint faults fail a cosmetic inspection?",
+  "back": "Crazing, patchy anti-reflective coverage, and peeling, plus a tint that is uneven, the wrong density, or the wrong colour. Compare the tint against the density and colour written on the order."
+ },
+ {
+  "id": 409,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What is the difference between a rough edge and a sharp edge fault?",
+  "back": "A poorly polished edge on a rimless or plastic job is a cosmetic failure. A sharp unbevelled edge is a safety failure, since a safety bevel belongs on both front and back edges."
+ },
+ {
+  "id": 410,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which bevel type belongs in a nylon supra mount frame?",
+  "back": "A groove of the correct depth, not a V bevel. A V bevel suits a metal or plastic eyewire, and a rimless job needs correct drill holes with no radiating stress cracks."
+ },
+ {
+  "id": 411,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What does Section 1 Part A ask you to produce?",
+  "back": "A verdict of accept or return to the lab, decided using the tolerance chart provided. If you return the job, you give the one reason why, not several."
+ },
+ {
+  "id": 412,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why does listing three reasons cost marks in Part A?",
+  "back": "One reason is asked for. Listing several shows you cannot pick the single most defensible failing, and if two of the three are wrong you have shown you cannot apply the chart."
+ },
+ {
+  "id": 413,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What is the correct order of thinking in Section 1 Part A?",
+  "back": "Check every parameter first, then decide. Candidates who name the first item that looks off are often wrong, because that item sits inside the allowance and the real failure is further down."
+ },
+ {
+  "id": 414,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How should the one reason for return be worded?",
+  "back": "Name the parameter, the ordered value, the measured value, the size of the difference, and the allowance you applied. That wording is defensible and shows the marker which row you used."
+ },
+ {
+  "id": 415,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What does a useful lab return note contain?",
+  "back": "The parameter, the ordered value, the measured value, the size of the difference, and the allowance applied. Left axis 081, ordered 085, 4 degrees off, allowance 3 degrees tells the lab everything."
+ },
+ {
+  "id": 416,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why does a note saying left lens wrong cause a second failure?",
+  "back": "It gives the lab nothing to act on, so they must rediagnose the job and often remake it wrong again. Name the remake needed instead of asking the lab to guess."
+ },
+ {
+  "id": 417,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What is sent back to the lab with failed eyewear?",
+  "back": "The work order and your written finding together, so the lab holds both the original specification and your measured evidence. Keep a copy of that finding for the patient record."
+ },
+ {
+  "id": 418,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "How is a failed job explained to the patient?",
+  "back": "Early and honestly. Say the job did not meet the standard on inspection, that a corrected pair has been ordered, and give a realistic date. Never hide the reason for the delay."
+ },
+ {
+  "id": 419,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Name the error of stopping at the lensometer.",
+  "back": "Reading power and going no further. Centration and heights fail as often as power does and carry marks of their own, so a power only check leaves half the job unverified."
+ },
+ {
+  "id": 420,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which item do candidates skip most often in Section 4?",
+  "back": "The frame check. Wrong colour, wrong eye size, and wrong model all pass unnoticed when a candidate goes straight to the lensometer without confirming the frame against the order."
+ },
+ {
+  "id": 421,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Which two lens designs are most often given each other's allowances?",
+  "back": "Progressives and conventional multifocals such as flat-tops. Candidates apply a single vision row to a progressive, or a progressive row to a flat-top, and reach the wrong verdict."
+ },
+ {
+  "id": 422,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Where do your tolerance answers come from on exam day?",
+  "back": "Strictly from the tolerance chart supplied to you that day, which sits on the desk in front of you. You never answer a tolerance question from memory in Sections 1 or 4."
+ },
+ {
+  "id": 423,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "Why is verifying from memory risky even when your recall feels solid?",
+  "back": "Your recollection may come from an out of date version of the standard. The chart on the desk is the scoring standard, and the marker scores against it rather than against your memory."
+ },
+ {
+  "id": 424,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What should you do if the supplied chart wording differs from what you studied?",
+  "back": "Follow the chart supplied that day. Band boundaries and wording can differ between versions, and the supplied chart is the only document your answers are actually scored against."
+ },
+ {
+  "id": 425,
+  "domain": "verification",
+  "chapter": 8,
+  "front": "What is the point of studying tolerances if the chart is supplied anyway?",
+  "back": "Studying teaches how tolerances behave so you can find and apply the right row at speed. Understanding the structure saves minutes. The numbers themselves come from the chart in your hand."
+ },
+ {
+  "id": 426,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is standard bench alignment?",
+  "back": "The symmetrical, undistorted condition of a frame assessed off the face on a flat surface. Left and right match, the front is square, and the temples fold and spread as designed. It is a manufacturing reference, not a fitting."
+ },
+ {
+  "id": 427,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Why must a frame reach standard alignment before any patient adjustment?",
+  "back": "Standard alignment is the known reference state. Without it you cannot tell whether a fault you see on the face belongs to the face or to the frame, so the fitting cannot be honest."
+ },
+ {
+  "id": 428,
+  "domain": "service",
+  "chapter": 9,
+  "front": "In what order do you work through a standard bench alignment?",
+  "back": "Front before temples, temples before pads. Within the front, work horizontal before vertical. Diagnose the fault by looking first, then choose a tool, otherwise you add a second fault on top of the first."
+ },
+ {
+  "id": 429,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Describe how to perform the four point touch test.",
+  "back": "Place the frame face down on a clean flat bench with the temples open. The two lower eyewire rims and the two temple ends should all contact the surface at the same moment. Press gently at diagonally opposite corners."
+ },
+ {
+  "id": 430,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does a failed four point touch test look like?",
+  "back": "The frame rocks when you press at diagonally opposite corners. The causes are one temple riding high, a front twisted at the bridge, or one side bent out of plane."
+ },
+ {
+  "id": 431,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Where do you correct a twist found by the four point touch test?",
+  "back": "At the bridge or the endpiece, whichever carries the twist. Never bend a temple to hide the rock, because that masks the real fault and builds a second fault on top of it."
+ },
+ {
+  "id": 432,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is face form, and how do you check it?",
+  "back": "Face form, also called wrap, is the horizontal curvature of the front so it follows the curve of the face. Sight down the top of the front from above and compare both eyewires against the bridge for equal backward curve."
+ },
+ {
+  "id": 433,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How is face form adjusted on a metal frame versus a plastic frame?",
+  "back": "On metal, work at the bridge with nylon jaw pliers, one eyewire at a time, cold. On plastic, heat the bridge in a frame warmer first, then reshape it."
+ },
+ {
+  "id": 434,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Define pantoscopic tilt and state where it is created.",
+  "back": "Pantoscopic tilt is the backward tilt of the bottom of the front toward the cheeks when the temples are held level. It is created at the endpiece, where the temple joins the front."
+ },
+ {
+  "id": 435,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What do you confirm about pantoscopic tilt during bench alignment?",
+  "back": "Only that the right and left tilt match each other. Bench alignment does not set an amount for any patient, so equality is what earns the mark, not a particular number of degrees."
+ },
+ {
+  "id": 436,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is retroscopic tilt?",
+  "back": "The opposite of pantoscopic tilt, with the bottom of the front tilted away from the face. It is uncommon as a deliberate setting and usually turns up as a fault to be corrected."
+ },
+ {
+  "id": 437,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How should the temples sit when folded in on an aligned frame?",
+  "back": "They should lie flat against the back of the front, without crossing over each other and without a visible gap where one temple stands off the front."
+ },
+ {
+  "id": 438,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What causes temples to cross on fold, and what causes a gap?",
+  "back": "Crossing usually means the temple is bent inward at the butt portion. Gapping usually means the temple is bowed outward or the endpiece angle has opened."
+ },
+ {
+  "id": 439,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is checked for temple spread and parallelism?",
+  "back": "The spread angle should match on both sides, near 90 degrees to the plane of the front. Viewed from above the temples should run parallel or diverge slightly and evenly. One angled in and one angled out makes the frame pull to one side."
+ },
+ {
+  "id": 440,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you check vertical alignment, also called lens tilt?",
+  "back": "Sight along the front from the temple side. Both lenses should lie in the same plane. If one plane is rotated relative to the other, the front is twisted at the bridge, which shows as one lens sitting closer to the cheek."
+ },
+ {
+  "id": 441,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does bridge symmetry mean on a bench aligned frame?",
+  "back": "The bridge places the two eyewires at the same height and the same distance from the centre line, on both metal and plastic frames. Asymmetry here throws off everything downstream."
+ },
+ {
+  "id": 442,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What do you check about eyewire screws and lens seating?",
+  "back": "Every eyewire screw present, correctly threaded, and snug without being over torqued. The lens bevel fully seated in the groove all the way round, with no gap at the eyewire joint and no rattle."
+ },
+ {
+  "id": 443,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Define the frontal angle of a nose pad and what it controls.",
+  "back": "The tilt of the pad in the vertical plane as viewed from the front. It controls contact from the top edge of the pad to the bottom edge against the side of the nose."
+ },
+ {
+  "id": 444,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Define the splay angle of a nose pad and what it controls.",
+  "back": "The angle of the pad relative to the plane of the front as viewed from above. It controls contact from the front edge of the pad to the back edge."
+ },
+ {
+  "id": 445,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Define the vertical angle of a nose pad.",
+  "back": "The rotation of the pad about a horizontal front to back axis, judged from the side. Change only one pad angle at a time and re check the bearing, or you cannot tell which change fixed the problem."
+ },
+ {
+  "id": 446,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What are angling pliers used for?",
+  "back": "They have one flat wide jaw and one nylon or narrow jaw. They set temple angles at the butt portion and do endpiece work such as spread angle and pantoscopic tilt."
+ },
+ {
+  "id": 447,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What are snipe nose pliers used for?",
+  "back": "They have fine tapered jaws that reach into tight areas, such as guard arms and small bridge components on a metal frame."
+ },
+ {
+  "id": 448,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What are chain nose pliers used for?",
+  "back": "They have flat non serrated jaws and serve as the general purpose gripping tool for metal frame work."
+ },
+ {
+  "id": 449,
+  "domain": "service",
+  "chapter": 9,
+  "front": "When should you reach for nylon jaw pliers?",
+  "back": "Whenever the grip must not mark the surface. They are the correct choice for straightening eyewires, adjusting face form, and any work on a plated or painted finish."
+ },
+ {
+  "id": 450,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What are half padded pliers used for?",
+  "back": "One jaw is padded and one is bare, so they suit work that needs a firm bite on one side while the other side stays protected from marking."
+ },
+ {
+  "id": 451,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What makes pad adjusting pliers different from other pliers?",
+  "back": "They have a cupped jaw and a peg jaw, made to hold a nose pad securely while you rotate it through its frontal, splay, and vertical angles."
+ },
+ {
+  "id": 452,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is a frame warmer used for, and on which materials?",
+  "back": "A frame warmer, hot air blower, or salt pan softens plastic before bending. Zyl, cellulose acetate, and most propionate and nylon based fronts are warmed. It is not used on metal frames."
+ },
+ {
+  "id": 453,
+  "domain": "service",
+  "chapter": 9,
+  "front": "State the heat rule for frame adjustment.",
+  "back": "Zyl and other plastics are heated before bending, and metal is generally adjusted cold. Forcing a cold plastic frame cracks it, and heating a metal frame damages the frame."
+ },
+ {
+  "id": 454,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does heating a metal frame risk?",
+  "back": "Blistering or discolouring the plating, softening the solder joints at the bridge and endpieces, and damaging any lenses still mounted in the frame."
+ },
+ {
+  "id": 455,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you warm a plastic frame without overheating it?",
+  "back": "Warm gently in short passes, moving the frame through the airflow, and test pliability with your fingers rather than trusting a timer. Overheating gives bubbling, whitening, loss of gloss, and permanent distortion."
+ },
+ {
+  "id": 456,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How is fit judged in Part B of Section 5?",
+  "back": "By observation alone. The examiner sits as a patient and says nothing about comfort, so every decision comes from what you can see on the face and on the skin."
+ },
+ {
+  "id": 457,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is the first step when handed a frame in Part B?",
+  "back": "Check it against standard bench alignment and correct it if needed. Adjusting to a face from a distorted starting point is the single most common failure in this section."
+ },
+ {
+  "id": 458,
+  "domain": "service",
+  "chapter": 9,
+  "front": "State the working order for a patient adjustment.",
+  "back": "Front first, then temples, then nose pads. The front position and the temple support decide where the pads have to sit, so pads are always adjusted last."
+ },
+ {
+  "id": 459,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you check and correct a front that is not level?",
+  "back": "Look straight on at the patient's eye level, not from above, and compare the top eyewire line against the brow line and the eyes. Correct at the endpieces or the bridge, never by shortening one temple."
+ },
+ {
+  "id": 460,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Define vertex distance and give a common working target.",
+  "back": "The distance from the back surface of the lens to the front of the cornea. Around 12 to 14 mm is common, set so the lashes clear the back surface of the lens."
+ },
+ {
+  "id": 461,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How is vertex distance adjusted on a metal frame?",
+  "back": "By opening or closing the temple spread angle at the endpieces, and by moving the pad arms in or out to shift the front closer to or further from the face."
+ },
+ {
+  "id": 462,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Why is vertex distance an optical decision, not only a comfort one?",
+  "back": "Vertex distance changes effective power. At powers over about +/-4.00 D a change in vertex meaningfully alters the power the patient actually receives, so it has to be set deliberately."
+ },
+ {
+  "id": 463,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Why set a modest pantoscopic tilt when fitting a patient?",
+  "back": "So the lower rim sits closer to the face than the upper rim, following the eye's downward rotation for near work. Set it at the endpieces and keep both sides equal unless the face is asymmetric."
+ },
+ {
+  "id": 464,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Where should the bend in the temple begin?",
+  "back": "Where the temple meets the top of the ear, at the crotch of the ear. Not before it, and not well past it."
+ },
+ {
+  "id": 465,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What happens if the temple bend is too far forward or too far back?",
+  "back": "A bend too far forward puts pressure in front of the ear and lifts the front off the face. A bend too far back leaves nothing holding the frame, so it slides."
+ },
+ {
+  "id": 466,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How should the downward portion of the temple end be shaped?",
+  "back": "It should follow the contour behind the ear with even light contact along its length, ending near the mastoid area. Excessive hook at the tip creates a pressure point a silent patient cannot report."
+ },
+ {
+  "id": 467,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Why are nose pads adjusted last in a patient fitting?",
+  "back": "Because the front position and the temple support determine where the pads need to sit. Adjusting pads before the front is level is a listed mark loser in this section."
+ },
+ {
+  "id": 468,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does correct pad bearing look like on the face?",
+  "back": "Both pads lie flat against the sides of the nose over their whole surface. A pad touching only at its top edge or only at its inner edge is bearing unevenly and will mark the skin."
+ },
+ {
+  "id": 469,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What do pad marks on the skin tell you?",
+  "back": "Remove the frame and read them. Deep red marks on one side only, or a mark made by a pad edge rather than the whole pad face, show you which pad angle is wrong."
+ },
+ {
+  "id": 470,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What do you check for frame level and temple gaps on the face?",
+  "back": "Compare the top rim against the brows and confirm the pupils sit at the same height in each lens. There should be a small even gap between each temple and the head between the endpiece and the ear."
+ },
+ {
+  "id": 471,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What signs tell you the frame is pressing too hard somewhere?",
+  "back": "Skin blanching, indentation, or a red line anywhere the frame touches. Blanching means too much pressure whether or not the patient says anything about it."
+ },
+ {
+  "id": 472,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you test frame stability without asking about comfort?",
+  "back": "Ask the examiner to look down or to nod, within what the station allows. A frame that slips forward is too loose at the temple ends, sitting on pads that are too open, or too heavy for its support."
+ },
+ {
+  "id": 473,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does it mean when lashes brush the back of the lens?",
+  "back": "The vertex distance is too short or the pantoscopic tilt is wrong. Increase vertex at the endpieces or the pad arms, or add slightly more pantoscopic tilt."
+ },
+ {
+  "id": 474,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Where should the pupils sit in a single vision fit?",
+  "back": "At the intended optical centre height. Place the optical centre at the pupil centre, then drop it about 1 mm for every 2 degrees of pantoscopic tilt, so it finishes at or slightly below the pupil centre."
+ },
+ {
+  "id": 475,
+  "domain": "service",
+  "chapter": 9,
+  "front": "The frame sits too high, or too low. What causes each?",
+  "back": "Too high means the pads are too close together or too far down the guard arms, so open them or raise them. Too low means the pads are too far apart or too far up the arms, so narrow the separation or lower them. Moving a pad up the arm lets the front settle lower."
+ },
+ {
+  "id": 476,
+  "domain": "service",
+  "chapter": 9,
+  "front": "The frame is crooked with one lens lower. How do you diagnose it?",
+  "back": "Check the front for twist first, then compare the two temple bend positions. A bend placed further from the front on one side drops that side of the frame."
+ },
+ {
+  "id": 477,
+  "domain": "service",
+  "chapter": 9,
+  "front": "List the common causes of a frame sliding down the nose.",
+  "back": "Pads too open, pad angles that do not match the nose so only a small area carries the load, temple bends set too far back, and temple ends too straight to hold."
+ },
+ {
+  "id": 478,
+  "domain": "service",
+  "chapter": 9,
+  "front": "The frame pinches behind the ear. What is wrong and what do you do?",
+  "back": "The temple end is bent too tightly or hooks too sharply at the tip. Relax the curve gradually and re check the contact rather than pulling it open in one movement."
+ },
+ {
+  "id": 479,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you recognize and correct temples that are too tight or too loose?",
+  "back": "Too tight shows blanching at the sides of the head and temples bowing outward, so open the spread angle at the endpieces. Too loose lets the front slide forward with temples standing away, so close the spread angle slightly."
+ },
+ {
+  "id": 480,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How should facial asymmetry change what you accept as a good fit?",
+  "back": "Almost no face is symmetrical, so a correctly fitted frame may look asymmetric back on the bench. Fit the face, and be able to state that you introduced the asymmetry deliberately and why."
+ },
+ {
+  "id": 481,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you warm a plastic frame for lens insertion?",
+  "back": "Move the front through the airflow of a frame warmer or hot air blower so the heat spreads evenly across the eyewire instead of concentrating on one point. Warm only the eyewire you are working on."
+ },
+ {
+  "id": 482,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What happens if a plastic frame is not warmed enough before insertion?",
+  "back": "The eyewire stays stiff, the lens will not seat, and forcing it cracks or splits the frame or chips the lens edge. A properly warmed zyl frame feels supple when you flex the eyewire."
+ },
+ {
+  "id": 483,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What are the signs that a plastic frame has been overheated?",
+  "back": "Loss of surface gloss, whitening, small bubbles, and a bridge that sags under its own weight. Mounted lenses can also craze an anti reflective coating or cloud a photochromic."
+ },
+ {
+  "id": 484,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Describe the technique for inserting a lens into a plastic frame.",
+  "back": "Seat one edge first, then work around. Start at the top temporal edge, press the nasal edge in, then roll the bottom edge into the groove with thumb pressure while supporting the eyewire from behind."
+ },
+ {
+  "id": 485,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does twisting a lens while forcing the last edge in cause?",
+  "back": "It rotates the cylinder axis away from the prescribed value and chips the lens edge. Keep the lens square to the frame the whole way round."
+ },
+ {
+  "id": 486,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you confirm a lens is fully seated after insertion?",
+  "back": "Sight around the bevel and check that the apex sits in the groove for the entire circumference, with no gap and no part of the lens standing proud of the eyewire."
+ },
+ {
+  "id": 487,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Why must you re check the axis after inserting a lens?",
+  "back": "Insertion can rotate the lens in the eyewire and shift the cylinder axis off the prescribed value. Verify it on a lensometer if the station permits, and inspect for stress marks, chips, and coating damage."
+ },
+ {
+  "id": 488,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What must you do to the frame after lens insertion?",
+  "back": "Return it to standard alignment. Re check four point touch, temple fold, and face form, because insertion routinely disturbs alignment and the mark is lost for a crooked frame."
+ },
+ {
+  "id": 489,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you recognize an oversized lens, and what is the remedy?",
+  "back": "It will not seat without visible frame distortion, springs back out, bows the eyewire, or shows stress patterns. It goes back to be reduced at the edger. Do not force it."
+ },
+ {
+  "id": 490,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you recognize an undersized lens, and what is the remedy?",
+  "back": "It rattles, spins in the eyewire, and will not hold axis. It cannot be saved by tightening the frame and must be recut to the correct size."
+ },
+ {
+  "id": 491,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Which lenses tolerate less heat, and how do you protect them?",
+  "back": "Anti reflective coated, photochromic, and some high index and polycarbonate lenses tolerate less heat than a basic CR 39 lens. Warm the frame, not the lens, and keep the lens out of the airflow."
+ },
+ {
+  "id": 492,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What does crazing of an anti reflective coating look like?",
+  "back": "A fine crackle pattern across the coated surface. It is permanent, so the lens has to be replaced rather than cleaned or polished back to clear."
+ },
+ {
+  "id": 493,
+  "domain": "service",
+  "chapter": 9,
+  "front": "Describe the safe way to remove a lens from a plastic frame.",
+  "back": "Warm the frame evenly the same way as for insertion, support the front, then push the lens out from the back at the upper temporal corner with even thumb pressure, catching it in your other hand."
+ },
+ {
+  "id": 494,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What should you never use to lever a lens out of a frame?",
+  "back": "A screwdriver, or any other tool used as a lever. It gouges the eyewire, chips the lens edge, and can crack a warmed plastic front."
+ },
+ {
+  "id": 495,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How are rimless mounts assembled, and what must not happen?",
+  "back": "The lens is held by drilled holes with bushings, screws, and nuts. The lens must not rotate during assembly, since any rotation moves the cylinder axis off the prescription."
+ },
+ {
+  "id": 496,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you remove a lens from a nylon mount frame?",
+  "back": "Slide a lens removal tool under the nylon cord and roll the cord off the lens edge, then lift the lens out of the metal chassis."
+ },
+ {
+  "id": 497,
+  "domain": "service",
+  "chapter": 9,
+  "front": "How do you insert a lens into a nylon mount frame?",
+  "back": "Seat the lens into the metal chassis groove first, then work the cord back over the lens edge, taking up the slack evenly. A stretched cord is replaced, never shortened by knotting."
+ },
+ {
+  "id": 498,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What is the most frequent frame repair, and how is it done properly?",
+  "back": "Screw replacement. Match diameter, thread, and length, seat the screw fully, then trim and peen the excess or apply a thread locking compound so the screw does not back out."
+ },
+ {
+  "id": 499,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What should you tell a patient about caring for new eyewear?",
+  "back": "Remove eyewear with two hands, clean the lenses with the correct cloth and solution, and come back for readjustment rather than bending the frame at home. Book a follow up appointment."
+ },
+ {
+  "id": 500,
+  "domain": "service",
+  "chapter": 9,
+  "front": "What should a new progressive wearer be told at dispensing?",
+  "back": "Point the nose at what they want to see and move the head rather than the eyes, expect a short adaptation period, use the lower zone for reading, and return so the fit and the fitting cross height can be rechecked."
+ }
+]

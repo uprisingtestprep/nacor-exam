@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NACOR Skills Station Rehearsal</title>
+<style>
+  :root { --primary: #1B3A6B; --secondary: #0A7E8C; --warn: #B3261E;
+           --ink: #1F2937; --muted: #6B7280; --line: #E5E7EB; --bg: #F7F8FA; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Helvetica, Arial, sans-serif; background: var(--bg);
+          color: var(--ink); line-height: 1.5; }
+  header { background: var(--primary); color: #fff; padding: 18px 20px; }
+  header h1 { margin: 0; font-size: 20px; }
+  header p { margin: 6px 0 0; opacity: .9; font-size: 14px; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 20px; }
+  .card { background: #fff; border: 1px solid var(--line); border-radius: 12px;
+           padding: 18px; margin-bottom: 14px; }
+  .gate input { font-size: 18px; padding: 10px; width: 220px; letter-spacing: 2px;
+                 text-transform: uppercase; border: 2px solid var(--line);
+                 border-radius: 8px; }
+  button { font: inherit; cursor: pointer; border-radius: 8px; border: none;
+            padding: 11px 18px; background: var(--primary); color: #fff; }
+  button.ghost { background: #fff; color: var(--primary);
+                  border: 2px solid var(--primary); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  .st-item { display: flex; justify-content: space-between; align-items: center;
+              gap: 12px; border: 1px solid var(--line); border-radius: 10px;
+              padding: 12px 14px; margin-bottom: 10px; background: #fff; }
+  .st-item h3 { margin: 0 0 4px; font-size: 16px; }
+  .st-meta { font-size: 13px; color: var(--muted); }
+  .pill { display: inline-block; background: #EEF3FF; color: var(--primary);
+           border-radius: 999px; padding: 2px 10px; font-size: 12px;
+           font-weight: 700; }
+  .timer { font-variant-numeric: tabular-nums; font-weight: 700; font-size: 22px;
+            color: var(--primary); }
+  .timer.low { color: var(--warn); }
+  .step { border: 2px solid var(--line); border-radius: 10px; padding: 11px 14px;
+           margin-bottom: 9px; background: #fff; cursor: pointer;
+           display: flex; gap: 10px; align-items: flex-start; }
+  .step:hover { border-color: var(--secondary); }
+  .step .num { min-width: 26px; height: 26px; border-radius: 50%;
+                background: var(--primary); color: #fff; font-size: 13px;
+                font-weight: 700; display: flex; align-items: center;
+                justify-content: center; }
+  .step.placed { background: #F3F4F6; color: var(--muted); cursor: default;
+                  border-style: dashed; }
+  .step.right { border-color: #1A6B3A; background: #EEFFF3; }
+  .step.wrong { border-color: var(--warn); background: #FEF1F0; }
+  .crit { color: var(--warn); font-weight: 700; font-size: 12px; }
+  .score { font-size: 15px; }
+  .bar { height: 10px; background: var(--line); border-radius: 999px;
+          overflow: hidden; margin: 8px 0 2px; }
+  .bar > i { display: block; height: 100%; background: var(--secondary); }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .note { font-size: 13px; color: var(--muted); }
+  a.back { color: #fff; text-decoration: none; font-size: 14px; opacity: .9; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding-top:0;padding-bottom:0">
+    <a class="back" href="./">Back to the exam simulator</a>
+    <h1>NACOR Skills Station Rehearsal</h1>
+    <p>Optical Sciences 1, Eyeglasses. Rehearse the order of every hands-on step
+       under the real section clock.</p>
+  </div>
+</header>
+<div class="wrap" id="app"></div>
+
+<script>
+const STATIONS = [{"id": "ST01", "section": "Section 2: Lens Neutralization", "title": "Neutralizing a Single Vision Pair on the Lensometer", "section_time_min": 75, "station_time_min": 12, "context": "Section 2 gives you five pairs in 75 minutes, so roughly 15 minutes per pair including every physical measurement. Work one fixed order every time so nothing is skipped under time pressure.", "steps": [{"text": "Focus the lensometer eyepiece to your own eye before reading anything, with no lens in the instrument", "critical": true}, {"text": "Inspect and clean the lenses so a smudge is not mistaken for a blurred target", "critical": false}, {"text": "Seat the right lens back surface down against the lens stop, temples away from you", "critical": true}, {"text": "Centre the target in the reticle using the lens table", "critical": false}, {"text": "Focus the sphere lines and read the sphere power off the power drum", "critical": true}, {"text": "Rotate the axis wheel to bring the cylinder lines into sharp focus", "critical": false}, {"text": "Read the second meridian and record the difference as the cylinder power in minus cylinder form", "critical": true}, {"text": "Read the cylinder axis off the axis scale", "critical": true}, {"text": "Dot the optical centre with the marking device", "critical": false}, {"text": "Repeat the full sequence for the left lens", "critical": false}, {"text": "Measure the distance between the two optical centre dots and compare it to the patient PD", "critical": false}, {"text": "Measure base curve on each lens with the lens clock and apply the index correction if the material is not 1.53", "critical": true}, {"text": "Record power, axis, optical centre distance, heights, and base curve for both eyes, labelled OD and OS", "critical": true}]}, {"id": "ST02", "section": "Section 2: Lens Neutralization", "title": "Identifying and Neutralizing a Progressive Lens", "section_time_min": 75, "station_time_min": 12, "context": "A progressive has no visible segment line. If you treat it as single vision you lose the add entirely, which is one of the most costly errors in this section.", "steps": [{"text": "Hold the lens against a dark background under good light and look for the permanent engravings before assuming it is single vision", "critical": true}, {"text": "Locate the two permanent circular engravings sitting 34 mm apart, one temporal and one nasal on each lens", "critical": true}, {"text": "Read the manufacturer or design mark under one engraving and the add power figure under the other", "critical": false}, {"text": "Re-ink the engravings and lay out the fitting cross, prism reference point, and the distance and near reference circles using the marking chart", "critical": true}, {"text": "Read the distance power at the distance reference point, never in the corridor", "critical": true}, {"text": "Read the near power at the near reference circle", "critical": true}, {"text": "Subtract the distance power from the near power to confirm the add against the engraved figure", "critical": false}, {"text": "Check the prism reference point for unwanted prism", "critical": false}, {"text": "Measure the fitting cross height from the deepest part of the eyewire groove up to the fitting cross", "critical": true}, {"text": "Measure monocular distance PD from the fitting cross positions, not a single binocular value", "critical": true}, {"text": "Record distance power, add, fitting cross heights, and monocular PDs for both eyes", "critical": false}]}, {"id": "ST03", "section": "Section 2: Lens Neutralization", "title": "Reading Add Power on a Flat-Top Bifocal", "section_time_min": 75, "station_time_min": 8, "context": "The front vertex method is the more accurate way to read an add and is what the trade expects. Reading both surfaces from the back introduces error, especially in higher powers.", "steps": [{"text": "Confirm the segment type and size by inspection, for example a flat-top 28", "critical": false}, {"text": "Neutralize the distance portion first with the lens back surface against the stop and record it", "critical": true}, {"text": "Turn the lens around so the front surface is against the lens stop for the add reading", "critical": true}, {"text": "Read the front vertex power through the distance portion and record it", "critical": true}, {"text": "Slide the lens up so the segment is over the aperture without changing anything else", "critical": false}, {"text": "Read the front vertex power through the segment and record it", "critical": true}, {"text": "Subtract the distance front vertex reading from the segment front vertex reading to get the add", "critical": true}, {"text": "Measure segment height from the deepest part of the eyewire groove to the top of the segment", "critical": true}, {"text": "Measure segment inset and near PD", "critical": false}, {"text": "Confirm both segments sit at equal height and equal tilt before recording", "critical": false}]}, {"id": "ST04", "section": "Section 3: Measurement, Part A", "title": "Monocular Distance and Near PD by Penlight and Ruler", "section_time_min": 20, "station_time_min": 5, "context": "The exam requires the penlight and ruler method FIRST, recorded, and only then the pupilometer. An examiner acts as the patient. Parallax is the enemy: if your sighting eye moves, your answer moves.", "steps": [{"text": "Seat yourself directly facing the patient at the same eye level, about 40 cm away", "critical": true}, {"text": "Explain what you are about to do and ask the patient to look at the light", "critical": false}, {"text": "Hold the penlight just below your own left eye and close your right eye, since your left eye faces the patient right eye", "critical": true}, {"text": "Have the patient fixate the light with both eyes open", "critical": false}, {"text": "Align the zero of the rule on the corneal reflex of the patient right eye, not the pupil edge", "critical": true}, {"text": "Read the distance from that zero across to the centre of the bridge of the nose to get the right monocular value", "critical": true}, {"text": "Without moving the rule, switch the penlight to just below your right eye and close your left eye", "critical": true}, {"text": "Read across to the corneal reflex of the patient left eye to get the left monocular value", "critical": true}, {"text": "Record both monocular distance values and their sum as the binocular distance PD", "critical": false}, {"text": "Repeat with the light and your sighting eye held at the true near working distance, keeping both of your eyes on the midline for the near measurement", "critical": true}, {"text": "Record the monocular near values, expecting them to be smaller than the distance values because of convergence", "critical": false}]}, {"id": "ST05", "section": "Section 3: Measurement, Part A", "title": "Monocular Distance and Near PD by Pupilometer", "section_time_min": 20, "station_time_min": 4, "context": "Same measurement, different instrument, taken after the penlight values are already recorded. Forgetting to switch the instrument to the near setting is a common and expensive slip.", "steps": [{"text": "Clean and disinfect the forehead rest and nose rest before the instrument touches the patient", "critical": true}, {"text": "Set the instrument to the distance setting", "critical": true}, {"text": "Seat the instrument squarely on the bridge of the nose with the forehead rest in even contact", "critical": false}, {"text": "Ask the patient to look at the illuminated target inside the instrument with both eyes", "critical": false}, {"text": "Slide the right hairline onto the corneal reflex of the right eye", "critical": true}, {"text": "Slide the left hairline onto the corneal reflex of the left eye", "critical": true}, {"text": "Read and record both monocular distance values from the scale", "critical": true}, {"text": "Switch the instrument to the near setting for the required working distance", "critical": true}, {"text": "Re-align both hairlines on the corneal reflexes with the patient fixating at near", "critical": false}, {"text": "Read and record both monocular near values", "critical": true}, {"text": "Compare the pupilometer values against the penlight values and note any disagreement", "critical": false}]}, {"id": "ST06", "section": "Section 3: Measurement, Part B", "title": "Measuring Vertex Distance in a Metal Frame", "section_time_min": 20, "station_time_min": 4, "context": "Vertex distance is measured from the back surface of the lens to the front of the cornea. The frame must already be sitting correctly on the face or the number is meaningless.", "steps": [{"text": "Confirm the frame is adjusted and sitting in its correct fitting position before measuring anything", "critical": true}, {"text": "Seat yourself at the patient eye level and view from the side", "critical": false}, {"text": "Ask the patient to look straight ahead at a distant target", "critical": false}, {"text": "Ask the patient to close the eye being measured so the instrument does not contact the cornea", "critical": true}, {"text": "Place the distometer caliper so the fixed arm rests against the closed eyelid and the moving arm meets the back surface of the lens", "critical": true}, {"text": "Read the scale, remembering that a distometer is calibrated to allow for eyelid thickness", "critical": true}, {"text": "Repeat the measurement on the other eye", "critical": false}, {"text": "Record both values and note that compensation is normally considered above about plus or minus 4.00 dioptres", "critical": false}]}, {"id": "ST07", "section": "Section 3: Measurement, Part C", "title": "Progressive Fitting Cross Height in a Nylon Mount Frame", "section_time_min": 20, "station_time_min": 5, "context": "The exam names a metal and nylon mount frame specifically. On a nylon mount the reference is the bottom of the groove, not the visible edge of the lens. Fitting cross height goes to the PUPIL CENTRE, which is what separates it from a flat-top seg height.", "steps": [{"text": "Adjust the frame to the patient face and confirm it is level and sitting at its true fitting position", "critical": true}, {"text": "Confirm the frame B measurement is deep enough for the minimum fitting height of the intended progressive design", "critical": true}, {"text": "Seat yourself directly in front of the patient at exactly the same eye level to eliminate parallax", "critical": true}, {"text": "Ask the patient to look straight at your open eye at the correct working distance", "critical": false}, {"text": "Mark the demo lens at the patient pupil centre for the right eye", "critical": true}, {"text": "Repeat for the left eye, switching your own sighting eye so you stay on the visual axis", "critical": true}, {"text": "Remove the frame and measure from the deepest part of the nylon groove vertically up to each mark", "critical": true}, {"text": "Check the two heights against each other and against the patient facial symmetry", "critical": false}, {"text": "Record the fitting cross heights for OD and OS separately", "critical": false}]}, {"id": "ST08", "section": "Section 3: Measurement, Part C", "title": "Flat-Top Segment Height Measurement", "section_time_min": 20, "station_time_min": 4, "context": "A flat-top seg height uses a different reference than a progressive fitting cross. Measuring a bifocal to the pupil centre, or a progressive to the lower lid, is a classic marked error.", "steps": [{"text": "Adjust and level the frame on the patient before measuring", "critical": true}, {"text": "Sit at the patient eye level and have them look straight ahead in normal posture", "critical": false}, {"text": "Identify the lower lid margin as the usual starting reference for the top of the segment", "critical": true}, {"text": "Mark the demo lens at the lower lid margin for each eye", "critical": true}, {"text": "Adjust the reference for the patient habits, posture, occupation, and height where there is reason to", "critical": false}, {"text": "Measure from the deepest part of the eyewire groove up to each mark", "critical": true}, {"text": "Confirm the two heights are appropriate for the patient facial symmetry", "critical": false}, {"text": "Record segment heights for OD and OS separately, labelled as segment height not fitting cross height", "critical": true}]}, {"id": "ST09", "section": "Section 4: Verification", "title": "Verifying a Finished Job Against the Work Order", "section_time_min": 60, "station_time_min": 12, "context": "Four pairs in 60 minutes. Answers must be based strictly on the tolerance chart supplied at the exam, never on memory. A fixed order is the only way to avoid missing a parameter.", "steps": [{"text": "Read the work order fully before touching the eyewear", "critical": true}, {"text": "Confirm the frame is the specified make, model, colour, and eye size", "critical": true}, {"text": "Neutralize and check the distance sphere power in each eye against the order", "critical": true}, {"text": "Check cylinder power in each eye against the order", "critical": false}, {"text": "Check cylinder axis in each eye, selecting the axis allowance that matches that cylinder power", "critical": true}, {"text": "Check add power in each eye if the job is multifocal", "critical": false}, {"text": "Dot the optical centres or prism reference points and check their horizontal position against the specified PD", "critical": true}, {"text": "Check optical centre height, segment height, or fitting cross height against the order", "critical": true}, {"text": "Check for prescribed prism, and separately for unwanted prism", "critical": true}, {"text": "Check base curve if the order specifies one", "critical": false}, {"text": "Confirm the lens material, design, and treatments match the order", "critical": false}, {"text": "Inspect for cosmetic and mechanical faults such as chips, scratches, waves, poor edge finish, or a missing safety bevel", "critical": false}, {"text": "Mark each component within or not within tolerance using the chart provided at the exam", "critical": true}]}, {"id": "ST10", "section": "Section 5: Service, Part A", "title": "Returning a Frame to Standard Bench Alignment", "section_time_min": 30, "station_time_min": 8, "context": "Standard alignment is the reference state. You must reach it before any patient adjustment. Part A gives you one metal and one plastic frame.", "steps": [{"text": "Identify the frame material, because a plastic frame is heated before bending and a metal frame generally is not", "critical": true}, {"text": "Inspect the frame and check that both lenses are fully seated and the screws are tight", "critical": false}, {"text": "Perform the four point touch test on a flat surface, pressing at diagonally opposite corners, to find any twist or rock", "critical": true}, {"text": "Correct the horizontal alignment at the bridge or endpiece, never by bending a temple", "critical": true}, {"text": "Correct the vertical alignment so neither lens is tilted relative to the other", "critical": false}, {"text": "Set face form so the front curves evenly around the imagined face", "critical": false}, {"text": "Set pantoscopic tilt equal on both sides", "critical": true}, {"text": "Check the temples fold without crossing and without gapping", "critical": true}, {"text": "Set temple spread equal on both sides", "critical": false}, {"text": "Confirm the temples are parallel to each other and level when the frame rests on a flat surface", "critical": false}, {"text": "On the metal frame, set the nose pads for equal frontal, splay, and vertical angles", "critical": true}, {"text": "Re-check the four point touch after all adjustments to confirm the frame is still in standard alignment", "critical": true}]}, {"id": "ST11", "section": "Section 5: Service, Part B", "title": "Fitting a Metal Frame to a Patient Who Gives No Feedback", "section_time_min": 30, "station_time_min": 8, "context": "The examiner acting as patient will not comment on the fit. Every judgement must come from what you can see. Work front, then temples, then pads, and never start until the frame is in standard alignment.", "steps": [{"text": "Confirm the frame is already in standard bench alignment before it goes on the patient", "critical": true}, {"text": "Place the frame on the patient and observe how it sits from the front and from the side", "critical": false}, {"text": "Level the front so the frame sits square relative to the eyes and brows", "critical": true}, {"text": "Set the vertex distance so the lashes clear the lenses", "critical": true}, {"text": "Set the pantoscopic tilt for the patient face", "critical": false}, {"text": "Adjust the temple bend so it starts exactly at the top of the ear, with no pressure in front of the ear", "critical": true}, {"text": "Shape the temple end to follow the mastoid without digging in", "critical": false}, {"text": "Adjust the nose pads last, setting height first and then even bearing across each pad", "critical": true}, {"text": "Look for uneven pad marks, pressure points, or gaps as your evidence of fit, since the patient will not tell you", "critical": true}, {"text": "Ask the patient to look down and observe whether the frame slides", "critical": false}, {"text": "Re-check that the frame is still level and symmetrical after all adjustments", "critical": true}]}, {"id": "ST12", "section": "Section 5: Service, Part C", "title": "Inserting Lenses into a Plastic Frame", "section_time_min": 30, "station_time_min": 6, "context": "Zyl must be warmed evenly. Too little heat and you chip the lens or stress the frame, too much and you damage the finish or craze a coating. Rotating the axis while seating the lens quietly ruins the job.", "steps": [{"text": "Confirm the lens is the correct one for that eye and check its axis orientation before starting", "critical": true}, {"text": "Warm the plastic frame evenly with the frame warmer, keeping it moving so no area overheats", "critical": true}, {"text": "Check the frame is pliable by feel before attempting insertion", "critical": false}, {"text": "Seat the top edge of the lens into the eyewire groove first", "critical": false}, {"text": "Work the lens around the groove, easing the eyewire over the edge rather than forcing it", "critical": true}, {"text": "Seat the final corner, usually the lower temporal, without twisting the lens", "critical": true}, {"text": "Confirm the lens is fully seated in the groove all the way around with no gaps", "critical": true}, {"text": "Check the axis has not rotated during insertion by re-reading it on the lensometer", "critical": true}, {"text": "Allow the frame to cool fully before further handling", "critical": false}, {"text": "Return the frame to standard bench alignment, since insertion will have disturbed it", "critical": true}, {"text": "Inspect for stress marks, chips, or coating damage", "critical": false}]}];
+const ACCESS_CODE = "NACOR9000";
+const KEY = "nacor_skills_state_v1";
+let timerId = null;
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[c]);
+}
+function shuffle(a) {
+  const r = a.slice();
+  for (let i = r.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [r[i], r[j]] = [r[j], r[i]];
+  }
+  return r;
+}
+function unlocked() {
+  try { return localStorage.getItem(KEY) === "ok"; } catch (e) { return false; }
+}
+
+function renderGate() {
+  document.getElementById("app").innerHTML = `
+    <div class="card gate">
+      <h2 style="margin-top:0">Enter your access code</h2>
+      <p class="note">The code is printed in your study guide.</p>
+      <div class="row">
+        <input id="code" placeholder="CODE" autocomplete="off">
+        <button id="go">Unlock</button>
+      </div>
+      <p id="err" style="color:var(--warn);display:none;margin-bottom:0">
+        That code is not correct.</p>
+    </div>`;
+  const tryCode = () => {
+    const v = document.getElementById("code").value.trim().toUpperCase();
+    if (v === ACCESS_CODE) {
+      try { localStorage.setItem(KEY, "ok"); } catch (e) {}
+      renderList();
+    } else {
+      document.getElementById("err").style.display = "block";
+    }
+  };
+  document.getElementById("go").onclick = tryCode;
+  document.getElementById("code").addEventListener("keydown",
+    e => { if (e.key === "Enter") tryCode(); });
+}
+
+function renderList() {
+  if (timerId) { clearInterval(timerId); timerId = null; }
+  const bySec = {};
+  STATIONS.forEach(s => { (bySec[s.section] = bySec[s.section] || []).push(s); });
+  let h = `<div class="card">
+    <h2 style="margin-top:0">Choose a station</h2>
+    <p class="note">Each station gives you the real steps in scrambled order.
+    Tap them into the correct sequence. Steps marked critical are the ones that
+    cost the most marks or create a real safety or equipment problem.</p></div>`;
+  Object.keys(bySec).forEach(sec => {
+    h += `<div class="card"><h3 style="margin-top:0">${esc(sec)}</h3>`;
+    bySec[sec].forEach(s => {
+      h += `<div class="st-item">
+        <div>
+          <h3>${esc(s.title)}</h3>
+          <div class="st-meta">${s.steps.length} steps
+            &nbsp;<span class="pill">${s.station_time_min} min</span></div>
+        </div>
+        <button data-id="${s.id}">Start</button>
+      </div>`;
+    });
+    h += `</div>`;
+  });
+  document.getElementById("app").innerHTML = h;
+  document.querySelectorAll("button[data-id]").forEach(b => {
+    b.onclick = () => renderStation(b.getAttribute("data-id"));
+  });
+}
+
+function renderStation(id) {
+  const st = STATIONS.find(s => s.id === id);
+  const pool = shuffle(st.steps.map((s, i) => ({ ...s, idx: i })));
+  const placed = [];
+  let left = st.station_time_min * 60;
+
+  function paint() {
+    const m = Math.floor(left / 60), sec = left % 60;
+    const done = placed.length, total = st.steps.length;
+    let h = `<div class="card">
+      <div class="row" style="justify-content:space-between">
+        <div><span class="pill">${esc(st.section)}</span>
+          <h2 style="margin:8px 0 0">${esc(st.title)}</h2></div>
+        <div class="timer${left <= 30 ? " low" : ""}" id="tm">
+          ${m}:${String(sec).padStart(2, "0")}</div>
+      </div>
+      <p class="note" style="margin-bottom:6px">${esc(st.context)}</p>
+      <div class="bar"><i style="width:${Math.round(100 * done / total)}%"></i></div>
+      <div class="note">${done} of ${total} steps placed</div>
+    </div>`;
+
+    h += `<div class="card"><h3 style="margin-top:0">Your sequence</h3>`;
+    if (!placed.length) h += `<p class="note">Tap a step below to begin.</p>`;
+    placed.forEach((s, i) => {
+      h += `<div class="step placed"><div class="num">${i + 1}</div>
+        <div>${esc(s.text)}</div></div>`;
+    });
+    h += `</div>`;
+
+    const rest = pool.filter(p => !placed.some(q => q.idx === p.idx));
+    if (rest.length) {
+      h += `<div class="card"><h3 style="margin-top:0">Remaining steps</h3>`;
+      rest.forEach(s => {
+        h += `<div class="step" data-i="${s.idx}"><div class="num">+</div>
+          <div>${esc(s.text)}</div></div>`;
+      });
+      h += `</div>`;
+    }
+    h += `<div class="card row">
+      <button id="check" ${rest.length ? "disabled" : ""}>Check my sequence</button>
+      <button class="ghost" id="reset">Start over</button>
+      <button class="ghost" id="back">All stations</button>
+      ${rest.length ? '<span class="note">Place every step to check.</span>' : ""}
+    </div>`;
+    document.getElementById("app").innerHTML = h;
+
+    document.querySelectorAll(".step[data-i]").forEach(el => {
+      el.onclick = () => {
+        placed.push(pool.find(p => p.idx === +el.getAttribute("data-i")));
+        paint();
+      };
+    });
+    document.getElementById("reset").onclick = () => renderStation(id);
+    document.getElementById("back").onclick = renderList;
+    const c = document.getElementById("check");
+    if (c) c.onclick = grade;
+  }
+
+  function grade() {
+    if (timerId) { clearInterval(timerId); timerId = null; }
+    let correct = 0, critMissed = 0;
+    placed.forEach((s, i) => {
+      if (s.idx === i) correct++;
+      else if (s.critical) critMissed++;
+    });
+    const pct = Math.round(100 * correct / st.steps.length);
+    let h = `<div class="card">
+      <h2 style="margin-top:0">${esc(st.title)}</h2>
+      <p class="score"><strong>${correct} of ${st.steps.length}</strong>
+         steps in the right position (${pct} percent).</p>`;
+    if (critMissed) {
+      h += `<p class="crit">${critMissed} critical step${critMissed > 1 ? "s" : ""}
+            out of position. On the real exam those are where the marks go.</p>`;
+    } else {
+      h += `<p class="note">Every critical step was in the right place.</p>`;
+    }
+    h += `</div><div class="card"><h3 style="margin-top:0">The correct order</h3>`;
+    st.steps.forEach((s, i) => {
+      const yours = placed[i];
+      const ok = yours && yours.idx === i;
+      h += `<div class="step ${ok ? "right" : "wrong"}">
+        <div class="num">${i + 1}</div>
+        <div>${esc(s.text)}
+          ${s.critical ? '<div class="crit">critical step</div>' : ""}
+          ${ok ? "" : `<div class="note">you placed: ${
+             yours ? esc(yours.text) : "nothing"}</div>`}
+        </div></div>`;
+    });
+    h += `</div><div class="card row">
+      <button id="again">Try this station again</button>
+      <button class="ghost" id="back2">All stations</button></div>`;
+    document.getElementById("app").innerHTML = h;
+    document.getElementById("again").onclick = () => renderStation(id);
+    document.getElementById("back2").onclick = renderList;
+  }
+
+  paint();
+  if (timerId) clearInterval(timerId);
+  timerId = setInterval(() => {
+    left--;
+    const t = document.getElementById("tm");
+    if (t) {
+      const m = Math.floor(Math.max(0, left) / 60), s = Math.max(0, left) % 60;
+      t.textContent = `${m}:${String(s).padStart(2, "0")}`;
+      if (left <= 30) t.classList.add("low");
+    }
+    if (left <= 0) { clearInterval(timerId); timerId = null; grade(); }
+  }, 1000);
+}
+
+if (unlocked()) renderList(); else renderGate();
+</script>
+</body>
+</html>
